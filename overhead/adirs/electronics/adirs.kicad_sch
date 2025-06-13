@@ -1,0 +1,643 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "38c189ac-e618-468c-8dfe-87e126e02139")
+	(paper "A4")
+	(lib_symbols
+		(symbol "KorrySwitch:Korry_Switch"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "KR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "KorrySwitch:OpenA3XX"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Korry_Switch_0_1"
+				(rectangle
+					(start -7.62 -1.27)
+					(end 10.16 -16.51)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Korry_Switch_1_1"
+				(pin input line
+					(at -10.16 -2.54 0)
+					(length 2.54)
+					(name "+5V_TOP_LED"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -10.16 -5.08 0)
+					(length 2.54)
+					(name "GND_TOP_LED"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -10.16 -7.62 0)
+					(length 2.54)
+					(name "+5V_BOTTOM_LED"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -10.16 -10.16 0)
+					(length 2.54)
+					(name "GND_BOTTOM_LED"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 -12.7 0)
+					(length 2.54)
+					(name "SW_IN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -10.16 -15.24 0)
+					(length 2.54)
+					(name "SW_OUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(wire
+		(pts
+			(xy 119.38 97.79) (xy 115.57 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0cc08ed8-6fc6-4e8d-8b14-359d76764170")
+	)
+	(wire
+		(pts
+			(xy 116.84 74.93) (xy 119.38 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15b98f03-f73f-4809-a01a-68d5cbb4f08a")
+	)
+	(wire
+		(pts
+			(xy 115.57 97.79) (xy 115.57 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1cba7bc6-e1c9-4f2e-a97b-c084830518ce")
+	)
+	(wire
+		(pts
+			(xy 116.84 95.25) (xy 119.38 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1cda9691-9aea-48c2-a1c4-45aca6b23b4d")
+	)
+	(wire
+		(pts
+			(xy 115.57 69.85) (xy 119.38 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "26786a95-14ff-44f0-b117-9390351e66dd")
+	)
+	(wire
+		(pts
+			(xy 113.03 80.01) (xy 119.38 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "402d92c7-797b-4ed0-866d-f82044e43992")
+	)
+	(wire
+		(pts
+			(xy 119.38 67.31) (xy 113.03 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "580578d8-ee93-4961-8a00-0fad8522e040")
+	)
+	(wire
+		(pts
+			(xy 160.02 77.47) (xy 163.83 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f1c3185-16fd-48ad-bdf9-516713ad3f4a")
+	)
+	(wire
+		(pts
+			(xy 119.38 92.71) (xy 116.84 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ff92632-1a48-4d61-83fd-5689e61adf89")
+	)
+	(wire
+		(pts
+			(xy 115.57 90.17) (xy 119.38 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "83bedbdf-06c8-4b51-aed1-24a2df48d8dc")
+	)
+	(wire
+		(pts
+			(xy 161.29 82.55) (xy 163.83 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "894683ef-3fec-46c2-bd48-01349127841d")
+	)
+	(wire
+		(pts
+			(xy 113.03 67.31) (xy 113.03 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "94d2ef6f-ec1d-466a-8b36-836c869cd460")
+	)
+	(wire
+		(pts
+			(xy 116.84 72.39) (xy 116.84 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a0ca8822-aefd-423b-b631-789bbc2830f8")
+	)
+	(wire
+		(pts
+			(xy 116.84 92.71) (xy 116.84 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8772ba6-a290-4018-9ae9-0ce6b6d5533e")
+	)
+	(wire
+		(pts
+			(xy 163.83 80.01) (xy 161.29 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd256b77-9d51-4dd3-bfe2-1edcf79459ee")
+	)
+	(wire
+		(pts
+			(xy 119.38 77.47) (xy 115.57 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d538a4ba-69f6-4f70-84a4-836ac0a222ca")
+	)
+	(wire
+		(pts
+			(xy 163.83 85.09) (xy 160.02 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea8af430-a2b7-4a3a-b2c6-95a045efa364")
+	)
+	(wire
+		(pts
+			(xy 160.02 85.09) (xy 160.02 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "efd91cc3-cd00-4f44-84da-756dd95d2412")
+	)
+	(wire
+		(pts
+			(xy 161.29 80.01) (xy 161.29 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f97f61ce-f36a-419e-8395-8f77cbd1418b")
+	)
+	(wire
+		(pts
+			(xy 119.38 72.39) (xy 116.84 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa7a3e02-acb2-456a-8162-8796c2980b45")
+	)
+	(wire
+		(pts
+			(xy 115.57 77.47) (xy 115.57 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fee6f2cb-a66b-49db-a4e7-f8181451be09")
+	)
+	(symbol
+		(lib_id "KorrySwitch:Korry_Switch")
+		(at 129.54 64.77 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "048c87a4-0f9f-4f50-aead-36e2c33959a5")
+		(property "Reference" "KR1"
+			(at 140.97 73.0249 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 140.97 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "KorrySwitch:OpenA3XX"
+			(at 129.54 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 129.54 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 129.54 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "fa1c0361-17fc-4c0b-b580-e34c4d8e9af2")
+		)
+		(pin "1"
+			(uuid "131c6379-45c9-4d50-a88f-852b71738b2b")
+		)
+		(pin "5"
+			(uuid "20724d14-dc58-4c9b-9412-d369ee8b4398")
+		)
+		(pin "4"
+			(uuid "dc3bac99-5f12-4148-b28b-05615a681749")
+		)
+		(pin "2"
+			(uuid "0ebf3a65-e0eb-418f-985f-98261a87c0ed")
+		)
+		(pin "6"
+			(uuid "2426d603-79cb-4d36-bcbb-03078175a67f")
+		)
+		(instances
+			(project ""
+				(path "/38c189ac-e618-468c-8dfe-87e126e02139"
+					(reference "KR1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "KorrySwitch:Korry_Switch")
+		(at 173.99 72.39 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2a1a060d-28e8-436c-9d4a-56cdc1472866")
+		(property "Reference" "KR3"
+			(at 185.42 80.6449 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 185.42 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "KorrySwitch:OpenA3XX"
+			(at 173.99 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 173.99 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 173.99 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "08797db6-fd43-4535-8946-cc2a94b7f04e")
+		)
+		(pin "1"
+			(uuid "bd1b110a-701b-4062-b0c4-a79b792ce3fa")
+		)
+		(pin "5"
+			(uuid "b635ecea-7ae6-4fbe-bbac-5c94c6b3afb6")
+		)
+		(pin "4"
+			(uuid "ed7ec1ab-2651-43de-9872-886a76a7f8bd")
+		)
+		(pin "2"
+			(uuid "463182a7-fd1e-4ac8-b4c1-5a66591be009")
+		)
+		(pin "6"
+			(uuid "9bc639cc-7f83-4a46-bfd0-d64c12fd3c49")
+		)
+		(instances
+			(project "adirs"
+				(path "/38c189ac-e618-468c-8dfe-87e126e02139"
+					(reference "KR3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "KorrySwitch:Korry_Switch")
+		(at 129.54 85.09 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ef70d7d8-323b-46fd-92d5-b693397920a9")
+		(property "Reference" "KR2"
+			(at 140.97 93.3449 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 140.97 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "KorrySwitch:OpenA3XX"
+			(at 129.54 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 129.54 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 129.54 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "4815c44b-d2b1-4afb-b189-82b3128bcf7f")
+		)
+		(pin "1"
+			(uuid "4e8b9258-9f16-4745-8d6b-fbe51e4037c2")
+		)
+		(pin "5"
+			(uuid "b90b2e76-763e-4192-b3a6-695ace873199")
+		)
+		(pin "4"
+			(uuid "56ea9186-55cb-4e0c-8626-6cf3b76c840a")
+		)
+		(pin "2"
+			(uuid "9453d963-1e3f-43da-b656-ad62a21e4c95")
+		)
+		(pin "6"
+			(uuid "efeae942-5195-455d-b592-932a87ef19ce")
+		)
+		(instances
+			(project "adirs"
+				(path "/38c189ac-e618-468c-8dfe-87e126e02139"
+					(reference "KR2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
