@@ -1,0 +1,105 @@
+(pcb "C:\Home Cockpit\A320\github\opena3xx-panel-design\overhead\adirs\electronics\adirs.dsn"
+  (parser
+    (string_quote ")
+    (space_in_quoted_tokens on)
+    (host_cad "KiCad's Pcbnew")
+    (host_version "9.0.2")
+  )
+  (resolution um 10)
+  (unit um)
+  (structure
+    (layer F.Cu
+      (type signal)
+      (property
+        (index 0)
+      )
+    )
+    (layer B.Cu
+      (type signal)
+      (property
+        (index 1)
+      )
+    )
+    (boundary
+      (path pcb 0  194900 -148600  47200 -148600  47200 -97400  194900 -97400
+            194900 -148600)
+    )
+    (via "Via[0-1]_600:300_um")
+    (rule
+      (width 200)
+      (clearance 200)
+      (clearance 50 (type smd_smd))
+    )
+  )
+  (placement
+    (component KorrySwitch:OpenA3XX
+      (place KR2 124750.000000 -116850.000000 front 0.000000 (PN ~))
+      (place KR3 156650.000000 -116850.000000 front 0.000000 (PN ~))
+    )
+    (component KorrySwitch:OpenA3XX::1
+      (place KR1 92750.000000 -116750.000000 front 0.000000 (PN ~))
+    )
+  )
+  (library
+    (image KorrySwitch:OpenA3XX
+      (outline (path signal 100  5250 -10250  15250 -10250))
+      (outline (path signal 100  0 0  20500 0  20500 -20500  0 -20500))
+      (outline (path signal 100  5250 -5250  15250 -5250  15250 -15250  5250 -15250))
+      (outline (path signal 100  5800 -5850  14725 -5850  14725 -9725  5800 -9725))
+      (outline (path signal 100  5825 -10775  14675 -10775  14675 -14700  5825 -14700))
+      (pin Rect[A]Pad_1500.000000x1500.000000_um 5V_BL 17900 -9580)
+      (pin Rect[A]Pad_1500.000000x1500.000000_um 5V_TL 17900 -4500)
+      (pin Rect[A]Pad_1500.000000x1500.000000_um GND_BL 17900 -12120)
+      (pin Rect[A]Pad_1500.000000x1500.000000_um GND_TL 17900 -7040)
+      (pin Rect[A]Pad_1500.000000x1500.000000_um SW_IN 2200 -9000)
+      (pin Rect[A]Pad_1500.000000x1500.000000_um SW_OUT 2200 -11540)
+    )
+    (image KorrySwitch:OpenA3XX::1
+      (outline (path signal 100  5250 -10250  15250 -10250))
+      (outline (path signal 100  0 0  20500 0  20500 -20500  0 -20500))
+      (outline (path signal 100  5250 -5250  15250 -5250  15250 -15250  5250 -15250))
+      (outline (path signal 100  5800 -5850  14725 -5850  14725 -9725  5800 -9725))
+      (outline (path signal 100  5825 -10775  14675 -10775  14675 -14700  5825 -14700))
+      (pin Rect[A]Pad_1500.000000x1500.000000_um 1 17900 -4500)
+      (pin Rect[A]Pad_1500.000000x1500.000000_um 2 17900 -7040)
+      (pin Rect[A]Pad_1500.000000x1500.000000_um 3 17900 -9580)
+      (pin Rect[A]Pad_1500.000000x1500.000000_um 4 17900 -12120)
+      (pin Rect[A]Pad_1500.000000x1500.000000_um 5 2200 -9000)
+      (pin Rect[A]Pad_1500.000000x1500.000000_um 6 2200 -11540)
+    )
+    (padstack Rect[A]Pad_1500.000000x1500.000000_um
+      (shape (rect F.Cu -750 -750 750 750))
+      (shape (rect B.Cu -750 -750 750 750))
+      (attach off)
+    )
+    (padstack "Via[0-1]_600:300_um"
+      (shape (circle F.Cu 600))
+      (shape (circle B.Cu 600))
+      (attach off)
+    )
+  )
+  (network
+    (net "Net-(KR1-GND_TOP_LED)"
+      (pins KR1-2 KR1-5)
+    )
+    (net "Net-(KR1-+5V_BOTTOM_LED)"
+      (pins KR1-3 KR1-4)
+    )
+    (net "Net-(KR1-+5V_TOP_LED)"
+      (pins KR1-1 KR1-6)
+    )
+    (class kicad_default "Net-(KR1-+5V_BOTTOM_LED)" "Net-(KR1-+5V_TOP_LED)"
+      "Net-(KR1-GND_TOP_LED)"
+      (circuit
+        (use_via "Via[0-1]_600:300_um")
+      )
+      (rule
+        (width 200)
+        (clearance 200)
+      )
+    )
+  )
+  (wiring
+    (wire (path F.Cu 200  96650 -125790  96610 -125750)(net "Net-(KR1-GND_TOP_LED)")(type route))
+  )
+)

@@ -1,0 +1,82 @@
+(session adirs.ses
+  (base_design adirs.dsn)
+  (placement
+    (resolution um 10)
+    (component KorrySwitch:OpenA3XX
+      (place KR2 1247500 -1168500 front 0)
+      (place KR3 1566500 -1168500 front 0)
+    )
+    (component KorrySwitch:OpenA3XX::1
+      (place KR1 927500 -1167500 front 0)
+    )
+  )
+  (was_is
+  )
+  (routes 
+    (resolution um 10)
+    (parser
+      (host_cad "KiCad's Pcbnew")
+      (host_version 9.0.2)
+    )
+    (library_out 
+      (padstack "Via[0-1]_600:300_um"
+        (shape
+          (circle F.Cu 6000 0 0)
+        )
+        (shape
+          (circle B.Cu 6000 0 0)
+        )
+        (attach off)
+      )
+      (padstack "Via[0-1]_600:300_um"
+        (shape
+          (circle F.Cu 6000 0 0)
+        )
+        (shape
+          (circle B.Cu 6000 0 0)
+        )
+        (attach off)
+      )
+    )
+    (network_out 
+      (net "Net-(KR1-GND_TOP_LED)"
+        (wire
+          (path F.Cu 2000
+            949500 -1257500
+            960017 -1257500
+          )
+        )
+        (wire
+          (path F.Cu 2000
+            1106500 -1237900
+            979617 -1237900
+            960017 -1257500
+          )
+        )
+      )
+      (net "Net-(KR1-+5V_BOTTOM_LED)"
+        (wire
+          (path B.Cu 2000
+            1106500 -1263300
+            1106500 -1288700
+          )
+        )
+      )
+      (net "Net-(KR1-+5V_TOP_LED)"
+        (wire
+          (path B.Cu 2000
+            1106500 -1212500
+            1095983 -1212500
+          )
+        )
+        (wire
+          (path B.Cu 2000
+            949500 -1282900
+            1025583 -1282900
+            1095983 -1212500
+          )
+        )
+      )
+    )
+  )
+)
