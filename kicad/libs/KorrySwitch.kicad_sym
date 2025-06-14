@@ -7,7 +7,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "KR"
-			(at 0 0 0)
+			(at 12.7 -8.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23,7 +23,7 @@
 			)
 		)
 		(property "Footprint" "KorrySwitch:OpenA3XX"
-			(at 0 0 0)
+			(at 0 1.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -135,7 +135,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin input line
 				(at -10.16 -12.7 0)
 				(length 2.54)
 				(name "SW_IN"
