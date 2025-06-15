@@ -111,9 +111,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "gerber/")
 		)
 	)
 	(net 0 "")
@@ -18755,18 +18755,6 @@
 		(layer "F.SilkS")
 		(uuid "0f93d8f8-3233-46b1-ab6c-f644aa90eee7")
 	)
-	(gr_curve
-		(pts
-			(xy 161.504926 101.122428) (xy 161.504926 103.62741) (xy 159.474245 105.658087) (xy 156.969267 105.658087)
-		)
-		(stroke
-			(width 0.28)
-			(type solid)
-			(color 0 0 255 1)
-		)
-		(layer "F.SilkS")
-		(uuid "0fdaa86e-00b9-4af7-b0fe-a0eed18c8516")
-	)
 	(gr_line
 		(start 250.010198 51.01319)
 		(end 250.010198 51.004561)
@@ -20972,18 +20960,6 @@
 		(layer "F.SilkS")
 		(uuid "289edc24-43ee-4e41-ae1b-fbec86b97031")
 	)
-	(gr_curve
-		(pts
-			(xy 206.869306 101.122428) (xy 206.869306 103.62741) (xy 204.838621 105.658087) (xy 202.333646 105.658087)
-		)
-		(stroke
-			(width 0.28)
-			(type solid)
-			(color 0 0 255 1)
-		)
-		(layer "F.SilkS")
-		(uuid "28cc3bea-e958-4f9b-b17a-dc86d4bb8422")
-	)
 	(gr_line
 		(start 200.485586 26.060305)
 		(end 200.448568 26.00941)
@@ -21732,18 +21708,6 @@
 		)
 		(layer "F.SilkS")
 		(uuid "3064285f-14be-4369-84c4-41dc14880d12")
-	)
-	(gr_curve
-		(pts
-			(xy 252.119299 101.122428) (xy 252.119299 103.62741) (xy 250.088628 105.658087) (xy 247.583639 105.658087)
-		)
-		(stroke
-			(width 0.28)
-			(type solid)
-			(color 0 0 255 1)
-		)
-		(layer "F.SilkS")
-		(uuid "308d34ba-aeec-4a3d-8c94-026312946e9a")
 	)
 	(gr_line
 		(start 201.784551 121.411856)
@@ -23848,18 +23812,6 @@
 	)
 	(gr_curve
 		(pts
-			(xy 247.583639 96.586783) (xy 250.088628 96.586783) (xy 252.119299 98.617461) (xy 252.119299 101.122428)
-		)
-		(stroke
-			(width 0.28)
-			(type solid)
-			(color 0 0 255 1)
-		)
-		(layer "F.SilkS")
-		(uuid "4ac4fe46-f0e0-42cc-bc89-c3237308e7ac")
-	)
-	(gr_curve
-		(pts
 			(xy 145.488428 89.668929) (xy 145.62256 89.680258) (xy 145.689626 89.753142) (xy 145.689626 89.88758)
 		)
 		(stroke
@@ -25934,18 +25886,6 @@
 		)
 		(layer "F.SilkS")
 		(uuid "62611fb5-d246-4db9-8d0c-ab74241db17e")
-	)
-	(gr_curve
-		(pts
-			(xy 202.333646 105.658087) (xy 199.82868 105.658087) (xy 197.797994 103.62741) (xy 197.797994 101.122428)
-		)
-		(stroke
-			(width 0.28)
-			(type solid)
-			(color 0 0 255 1)
-		)
-		(layer "F.SilkS")
-		(uuid "62921458-59d8-4132-b418-bf94fa64afad")
 	)
 	(gr_line
 		(start 156.895116 122.313376)
@@ -29555,18 +29495,6 @@
 		(layer "F.SilkS")
 		(uuid "90ca37b4-c943-476d-bd65-add97bf21560")
 	)
-	(gr_curve
-		(pts
-			(xy 202.333646 96.586783) (xy 204.838621 96.586783) (xy 206.869306 98.617461) (xy 206.869306 101.122428)
-		)
-		(stroke
-			(width 0.28)
-			(type solid)
-			(color 0 0 255 1)
-		)
-		(layer "F.SilkS")
-		(uuid "90d90200-de2a-4145-a155-6d42663f9962")
-	)
 	(gr_line
 		(start 157.038267 121.529807)
 		(end 157.038267 121.515387)
@@ -30500,18 +30428,6 @@
 		)
 		(layer "F.SilkS")
 		(uuid "9da253a6-0eef-4b38-9076-bcc21469a663")
-	)
-	(gr_curve
-		(pts
-			(xy 156.969267 105.658087) (xy 154.4643 105.658087) (xy 152.433618 103.62741) (xy 152.433618 101.122428)
-		)
-		(stroke
-			(width 0.28)
-			(type solid)
-			(color 0 0 255 1)
-		)
-		(layer "F.SilkS")
-		(uuid "9dd188b0-279d-4ece-a2c3-d46357523ba2")
 	)
 	(gr_line
 		(start 200.362966 28.875872)
@@ -34460,18 +34376,6 @@
 	)
 	(gr_curve
 		(pts
-			(xy 152.433618 101.122428) (xy 152.433618 98.617461) (xy 154.4643 96.586783) (xy 156.969267 96.586783)
-		)
-		(stroke
-			(width 0.28)
-			(type solid)
-			(color 0 0 255 1)
-		)
-		(layer "F.SilkS")
-		(uuid "cf950786-ece3-4ddc-b1fb-b570591a9754")
-	)
-	(gr_curve
-		(pts
 			(xy 208.652349 25.673945) (xy 208.445669 25.677031) (xy 208.28758 25.76649) (xy 208.178075 25.942317)
 		)
 		(stroke
@@ -36148,18 +36052,6 @@
 	)
 	(gr_curve
 		(pts
-			(xy 156.969267 96.586783) (xy 159.474245 96.586783) (xy 161.504926 98.617461) (xy 161.504926 101.122428)
-		)
-		(stroke
-			(width 0.28)
-			(type solid)
-			(color 0 0 255 1)
-		)
-		(layer "F.SilkS")
-		(uuid "e3e3c415-5d31-4245-ad9e-877644633c1c")
-	)
-	(gr_curve
-		(pts
 			(xy 207.343939 120.978797) (xy 207.343939 121.106986) (xy 207.300909 121.22251) (xy 207.214842 121.32537)
 		)
 		(stroke
@@ -36328,18 +36220,6 @@
 		)
 		(layer "F.SilkS")
 		(uuid "e65ad4fb-c384-4c9f-981f-85016f347d1e")
-	)
-	(gr_curve
-		(pts
-			(xy 247.583639 105.658087) (xy 245.07868 105.658087) (xy 243.047994 103.62741) (xy 243.047994 101.122428)
-		)
-		(stroke
-			(width 0.28)
-			(type solid)
-			(color 0 0 255 1)
-		)
-		(layer "F.SilkS")
-		(uuid "e6737ad5-7b90-4aeb-ae68-14040ad9fa23")
 	)
 	(gr_curve
 		(pts
@@ -36972,18 +36852,6 @@
 		)
 		(layer "F.SilkS")
 		(uuid "efb7aa7e-d46c-40b1-90bf-33850e9a507d")
-	)
-	(gr_curve
-		(pts
-			(xy 243.047994 101.122428) (xy 243.047994 98.617461) (xy 245.07868 96.586783) (xy 247.583639 96.586783)
-		)
-		(stroke
-			(width 0.28)
-			(type solid)
-			(color 0 0 255 1)
-		)
-		(layer "F.SilkS")
-		(uuid "efdb17e6-6c42-4506-8a52-493eb98cdc33")
 	)
 	(gr_line
 		(start 209.655264 27.322337)
@@ -37632,18 +37500,6 @@
 		)
 		(layer "F.SilkS")
 		(uuid "f73d2b92-00ba-4244-a75e-fbacd94a9573")
-	)
-	(gr_curve
-		(pts
-			(xy 197.797994 101.122428) (xy 197.797994 98.617461) (xy 199.82868 96.586783) (xy 202.333646 96.586783)
-		)
-		(stroke
-			(width 0.28)
-			(type solid)
-			(color 0 0 255 1)
-		)
-		(layer "F.SilkS")
-		(uuid "f746cfbd-dab9-440b-a17a-4de62bba046b")
 	)
 	(gr_line
 		(start 156.98921 122.033759)
@@ -56806,6 +56662,19 @@
 		(layer "Edge.Cuts")
 		(uuid "b679d2d8-b10a-4c17-a050-fa54fab0ca2e")
 	)
+	(gr_text "https://www.gitgub.com/OpenA3XX - ADIRS Panel V1.0"
+		(at 134.7 122 90)
+		(layer "F.SilkS")
+		(uuid "3427006e-e298-44a8-862e-9fd698446de3")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "ON_BAT INDICATOR"
 		(at 201.5 36.8 0)
 		(layer "F.SilkS")
@@ -56818,6 +56687,55 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "Flight Simulation Only"
+		(at 270.7 108.3 90)
+		(layer "F.SilkS")
+		(uuid "641475d7-7779-4597-bdc2-7f47a6a0ce30")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "© 2025 OpenA3XX • CC BY-SA 4.0"
+		(at 270.1 57.8 90)
+		(layer "F.SilkS")
+		(uuid "f4fbd010-3299-422e-ac27-fd04d72160e3")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(gr_text "Flight Simulation Only"
+		(at 268.8 108.3 -90)
+		(layer "B.SilkS")
+		(uuid "5464eb14-592a-4955-8df3-8c1242d36dbd")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "https://www.gitgub.com/OpenA3XX - ADIRS Panel V1.0"
+		(at 132.8 122 -90)
+		(layer "B.SilkS")
+		(uuid "71867a44-1699-4983-a854-8a3b417fe4b7")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "GND"
 		(at 157.9 25.4 -0)
 		(layer "B.SilkS")
@@ -56826,6 +56744,17 @@
 			(font
 				(size 0.4 0.4)
 				(thickness 0.0625)
+			)
+			(justify mirror)
+		)
+	)
+	(gr_text "© 2025 OpenA3XX • CC BY-SA 4.0"
+		(at 270 57.8 -90)
+		(layer "B.SilkS")
+		(uuid "ab24e2b7-ef2a-4ed1-9f71-42e7798e452f")
+		(effects
+			(font
+				(size 1.27 1.27)
 			)
 			(justify mirror)
 		)
@@ -57164,7 +57093,7 @@
 		(width 0.2)
 		(layer "B.Cu")
 		(net 1)
-		(uuid "0db509c2-d998-4597-aba6-6cb94de72906")
+		(uuid "0ba8f074-5474-4483-b1d1-39d028278983")
 	)
 	(segment
 		(start 145.3 120.3)
@@ -57189,6 +57118,14 @@
 		(layer "B.Cu")
 		(net 1)
 		(uuid "44a32957-03df-4fbe-a2c5-a017e76d0161")
+	)
+	(segment
+		(start 149.16 25.3)
+		(end 149.16 47.305)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 1)
+		(uuid "6550772e-ffea-4cd3-989d-d0c43dc4c7df")
 	)
 	(segment
 		(start 175.05 135.25)
@@ -57293,14 +57230,6 @@
 		(layer "B.Cu")
 		(net 1)
 		(uuid "f554344f-eaf1-4ece-90eb-dea782498188")
-	)
-	(segment
-		(start 149.16 25.3)
-		(end 149.16 47.305)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 1)
-		(uuid "fcda4db7-0248-48c2-b287-3386d98c3dfd")
 	)
 	(segment
 		(start 162.9 53)
