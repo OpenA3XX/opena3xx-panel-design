@@ -16,13 +16,13 @@
       (active on)
       (preferred_direction horizontal)
       (preferred_direction_trace_costs 1.0)
-      (against_preferred_direction_trace_costs 5.4)
+      (against_preferred_direction_trace_costs 3.6)
     )
     (layer_rule B.Cu
       (active on)
       (preferred_direction vertical)
       (preferred_direction_trace_costs 1.0)
-      (against_preferred_direction_trace_costs 2.8)
+      (against_preferred_direction_trace_costs 3.4)
     )
   )
   (rule
@@ -64,7 +64,15 @@
     )
   )
   (class "kicad_default"
-    "Net-(KR1-GND_TOP_LED)" "Net-(KR1-+5V_BOTTOM_LED)" "Net-(KR1-+5V_TOP_LED)"
+    +12V "Net-(D1-K)" "Net-(D2-K)" "Net-(D3-K)" "Net-(D4-K)" "Net-(D5-K)" "Net-(D6-K)" "Net-(D7-K)"
+    "Net-(D8-K)" "Net-(D9-K)" "Net-(D10-K)" "Net-(D11-K)" "Net-(D12-K)" "Net-(D13-K)" "Net-(D14-K)" "Net-(D15-K)"
+    "Net-(D16-K)" "Net-(D17-K)" "Net-(D18-K)" "Net-(D19-K)" "Net-(D20-K)" "Net-(D21-K)" "Net-(D22-K)" "Net-(D23-K)"
+    "Net-(D24-K)" "Net-(D25-K)" "Net-(D26-K)" "Net-(D27-K)" "Net-(D28-K)" "Net-(D29-K)" "Net-(D30-K)" "Net-(D31-K)"
+    "Net-(D32-K)" "Net-(D33-K)" "Net-(D34-K)" "Net-(D35-K)" "Net-(D36-K)" GND "Net-(J2-Pin_2)" "Net-(J2-Pin_1)"
+    "Net-(J2-Pin_19)" "Net-(J3-Pin_1)" "Net-(J2-Pin_20)" "Net-(J2-Pin_23)" "Net-(J2-Pin_26)" "Net-(J2-Pin_16)" "Net-(J2-Pin_13)" "Net-(J2-Pin_18)"
+    "Net-(J2-Pin_28)" "Net-(J2-Pin_17)" "Net-(J2-Pin_15)" "Net-(J2-Pin_24)" "Net-(J2-Pin_14)" "Net-(J2-Pin_3)" "Net-(J2-Pin_4)" "Net-(J2-Pin_10)"
+    "Net-(J2-Pin_21)" "Net-(J2-Pin_11)" "Net-(J2-Pin_22)" "Net-(J2-Pin_7)" "Net-(J2-Pin_9)" "Net-(J2-Pin_12)" "Net-(J2-Pin_25)" "Net-(J2-Pin_27)"
+    "Net-(J2-Pin_8)" "Net-(J2-Pin_5)" "Net-(J2-Pin_6)" "Net-(D37-K)" "Net-(D38-K)" "Net-(D39-K)" "Net-(D40-K)"
     (clearance_class "kicad_default")
     (via_rule "kicad_default")
     (rule

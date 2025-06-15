@@ -133,15 +133,7 @@
 			)
 		)
 	)
-	(pad "5V_BL" thru_hole rect
-		(at 17.9 9.58)
-		(size 1.5 1.5)
-		(drill 0.6)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
-		(uuid "27002426-3127-4abd-af3b-f10d9aa27cbc")
-	)
-	(pad "5V_TL" thru_hole rect
+	(pad "1" thru_hole rect
 		(at 17.9 4.5)
 		(size 1.5 1.5)
 		(drill 0.6)
@@ -149,15 +141,7 @@
 		(remove_unused_layers no)
 		(uuid "20c0ef4f-4be8-4b54-9620-20e35c156c00")
 	)
-	(pad "GND_BL" thru_hole rect
-		(at 17.9 12.12)
-		(size 1.5 1.5)
-		(drill 0.6)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
-		(uuid "8f4e3745-f93a-42a4-8a44-e5d884a35ea3")
-	)
-	(pad "GND_TL" thru_hole rect
+	(pad "2" thru_hole rect
 		(at 17.9 7.04)
 		(size 1.5 1.5)
 		(drill 0.6)
@@ -165,7 +149,23 @@
 		(remove_unused_layers no)
 		(uuid "273497a0-2970-4215-8349-1ee7a98d572e")
 	)
-	(pad "SW_IN" thru_hole rect
+	(pad "3" thru_hole rect
+		(at 17.9 9.58)
+		(size 1.5 1.5)
+		(drill 0.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "27002426-3127-4abd-af3b-f10d9aa27cbc")
+	)
+	(pad "4" thru_hole rect
+		(at 17.9 12.12)
+		(size 1.5 1.5)
+		(drill 0.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8f4e3745-f93a-42a4-8a44-e5d884a35ea3")
+	)
+	(pad "5" thru_hole rect
 		(at 2.2 9)
 		(size 1.5 1.5)
 		(drill 0.6)
@@ -173,7 +173,7 @@
 		(remove_unused_layers no)
 		(uuid "5e5faae9-346b-4c5a-9ffe-e578bf48e30e")
 	)
-	(pad "SW_OUT" thru_hole rect
+	(pad "6" thru_hole rect
 		(at 2.2 11.54)
 		(size 1.5 1.5)
 		(drill 0.6)
@@ -182,4 +182,26 @@
 		(uuid "1e4a6858-4dcc-40c9-b8ca-66103cb2715f")
 	)
 	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x04_P2.54mm_Vertical.wrl"
+		(offset
+			(xyz 17.85 -4.5 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+	(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.wrl"
+		(offset
+			(xyz 2.2 -9 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
 )
