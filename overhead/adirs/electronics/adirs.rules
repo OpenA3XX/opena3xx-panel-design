@@ -4,9 +4,9 @@
     fortyfive_degree
   )
   (autoroute_settings
-    (fanout off)
+    (fanout on)
     (autoroute on)
-    (postroute off)
+    (postroute on)
     (vias on)
     (via_costs 50)
     (plane_via_costs 5)
@@ -30,7 +30,7 @@
     (clearance 200.0)
     (clearance 100.0 (type smd_to_turn_gap))
     (clearance 50.0 (type smd))
-    (clearance 200.0 (type "kicad_default"))
+    (clearance 300.0 (type "kicad_default"))
   )
   (padstack "Via[0-1]_600:300_um"
     (shape

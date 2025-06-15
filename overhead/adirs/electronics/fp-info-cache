@@ -1,4 +1,4 @@
-25597575265669980
+25604575271405164
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -66646,13 +66646,6 @@ solder jumper open
 0
 3
 3
-KorrySwitch
-OpenA3XX
-
-
-0
-6
-6
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -70769,6 +70762,27 @@ net tie
 0
 4
 4
+OpenA3XX
+Korry Switch
+
+
+0
+6
+6
+OpenA3XX
+OpenA3XXLogo
+
+
+0
+0
+0
+OpenA3XX
+OpenA3XXLogoSmall
+
+
+0
+0
+0
 OptoDevice
 ADNS-9800
 Laser Gaming Sensor ADNS-9800
@@ -102647,3 +102661,17 @@ Varistor VF
 0
 2
 2
+libs
+OpenA3XXLogo
+
+
+0
+0
+0
+libs
+OpenA3XXLogoSmall
+
+
+0
+0
+0

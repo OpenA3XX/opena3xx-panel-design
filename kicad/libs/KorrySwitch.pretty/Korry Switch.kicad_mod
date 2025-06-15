@@ -1,0 +1,482 @@
+(footprint "Korry Switch"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -2.675 3.675 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "c65367e0-b785-496d-8334-dc3c49941813")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "OPENA3XX Korry Switch"
+		(at 8.1 -2.725 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "7b6f5091-81ef-4ebe-8e7b-2aa8b96ac421")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 4.9 -5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ee7d354a-a7c2-467b-b51c-fc7cd03008d0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 4.9 -5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fd3048bc-db40-45b4-b934-6f5164b38059")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start 5.25 10.25)
+		(end 15.25 10.25)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "a986f09b-552a-4dda-82d6-4e339fd4e1ea")
+	)
+	(fp_rect
+		(start 0 0)
+		(end 20.5 20.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "3bb46376-e1c2-4186-8820-b2c71ed90fc3")
+	)
+	(fp_rect
+		(start 5.25 5.25)
+		(end 15.25 15.25)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "591455b6-74f8-4c51-a948-5619669fccb6")
+	)
+	(fp_rect
+		(start 5.8 5.85)
+		(end 14.725 9.725)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "79ecee17-f040-4464-927d-9dc7670039db")
+	)
+	(fp_rect
+		(start 5.825 10.775)
+		(end 14.675 14.7)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "2281821f-8a82-4d53-af4d-58221347c503")
+	)
+	(fp_line
+		(start 5.25 10.25)
+		(end 15.25 10.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "eb109b6b-86a7-4020-8857-a192763839f1")
+	)
+	(fp_rect
+		(start 0 0)
+		(end 20.5 20.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "B.SilkS")
+		(uuid "7a49ddef-6d9c-48cc-a322-79fcc564b69c")
+	)
+	(fp_rect
+		(start 5.25 5.25)
+		(end 15.25 15.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "B.SilkS")
+		(uuid "10c3ecc9-a2e4-4132-a558-83fcf6711e0b")
+	)
+	(fp_rect
+		(start 5.8 5.85)
+		(end 14.725 9.725)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "B.SilkS")
+		(uuid "f3eaff1e-e449-4248-8340-caf1d4c933b9")
+	)
+	(fp_rect
+		(start 5.825 10.775)
+		(end 14.675 14.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "B.SilkS")
+		(uuid "cf32ff96-44de-4f63-87c7-50c39c4933a9")
+	)
+	(fp_text user "BOTTOM"
+		(at 7.475 12.775 0)
+		(unlocked yes)
+		(layer "F.SilkS" knockout)
+		(uuid "129da86e-8f72-4b00-bb20-5e27f82e2ce1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left)
+		)
+	)
+	(fp_text user "SW_IN"
+		(at 1.6 8.175 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "163cbf67-5582-45f8-b26d-a0429cf80d00")
+		(effects
+			(font
+				(size 0.25 0.25)
+				(thickness 0.0625)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "SW_OUT"
+		(at 1.45 10.7 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "51a3fe10-54ea-4068-ae29-687f1bf89204")
+		(effects
+			(font
+				(size 0.25 0.25)
+				(thickness 0.0625)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "BOTTOM_LED +5V"
+		(at 16.375 8.8 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "6432d508-6bf8-4fb7-94cf-73c3462a2a39")
+		(effects
+			(font
+				(size 0.25 0.25)
+				(thickness 0.0625)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "OPENA3XX Korry Switch"
+		(at 1.525 16.875 0)
+		(unlocked yes)
+		(layer "F.SilkS" knockout)
+		(uuid "af41d829-d894-44c9-bdf6-8967cc65e801")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left)
+		)
+	)
+	(fp_text user "TOP_LED GND"
+		(at 16.675 6.2 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "b1d64041-87c6-4014-83ec-f56affb0ed5d")
+		(effects
+			(font
+				(size 0.25 0.25)
+				(thickness 0.0625)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "BOTTOM_LED GND"
+		(at 16.325 11.325 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "bed61d1d-947b-4d3e-9bbf-d7cab81bde82")
+		(effects
+			(font
+				(size 0.25 0.25)
+				(thickness 0.0625)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "TOP"
+		(at 8.75 7.8 0)
+		(unlocked yes)
+		(layer "F.SilkS" knockout)
+		(uuid "d3bb1dfb-e44b-4e46-bc4d-47c321d9f7d5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left)
+		)
+	)
+	(fp_text user "TOP_LED +5V"
+		(at 16.65 3.65 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "e05ab3a3-563a-45fc-8f5e-d13a66efe1f9")
+		(effects
+			(font
+				(size 0.25 0.25)
+				(thickness 0.0625)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "SW_IN"
+		(at 2.75 8.175 0)
+		(unlocked yes)
+		(layer "B.SilkS")
+		(uuid "2373b480-f50c-42b0-87e1-cf9c7e5cc6d7")
+		(effects
+			(font
+				(size 0.25 0.25)
+				(thickness 0.0625)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(fp_text user "OPENA3XX Korry Switch"
+		(at 19.55 16.875 0)
+		(unlocked yes)
+		(layer "B.SilkS" knockout)
+		(uuid "2badd7dc-d0f2-496b-9479-e80b8386509e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left mirror)
+		)
+	)
+	(fp_text user "TOP_LED GND"
+		(at 19.975 6.2 0)
+		(unlocked yes)
+		(layer "B.SilkS")
+		(uuid "49fc0aa9-d421-4f6e-926c-a786109bf57e")
+		(effects
+			(font
+				(size 0.25 0.25)
+				(thickness 0.0625)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(fp_text user "BOTTOM_LED +5V"
+		(at 19.675 8.8 0)
+		(unlocked yes)
+		(layer "B.SilkS")
+		(uuid "7e8736fa-cf3f-4fec-8452-c6fbb3609010")
+		(effects
+			(font
+				(size 0.25 0.25)
+				(thickness 0.0625)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(fp_text user "TOP_LED +5V"
+		(at 19.95 3.65 0)
+		(unlocked yes)
+		(layer "B.SilkS")
+		(uuid "892f633d-18a7-4bd7-aca3-7b2041aebb34")
+		(effects
+			(font
+				(size 0.25 0.25)
+				(thickness 0.0625)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(fp_text user "BOTTOM"
+		(at 13.1 12.7375 0)
+		(unlocked yes)
+		(layer "B.SilkS" knockout)
+		(uuid "abdb8a74-8b0a-46e1-8d7c-7e35ab17bcc1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left mirror)
+		)
+	)
+	(fp_text user "SW_OUT"
+		(at 2.95 10.7 0)
+		(unlocked yes)
+		(layer "B.SilkS")
+		(uuid "c3647324-0913-4381-bfe0-690c092668ea")
+		(effects
+			(font
+				(size 0.25 0.25)
+				(thickness 0.0625)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(fp_text user "BOTTOM_LED GND"
+		(at 19.625 11.325 0)
+		(unlocked yes)
+		(layer "B.SilkS")
+		(uuid "c59b4f94-98c9-4ee1-b2f1-370c5975b5b9")
+		(effects
+			(font
+				(size 0.25 0.25)
+				(thickness 0.0625)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(fp_text user "TOP"
+		(at 11.65 7.7875 0)
+		(unlocked yes)
+		(layer "B.SilkS" knockout)
+		(uuid "c7e32c90-313c-4e4d-a39a-e153fa1e93ed")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left mirror)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 4.55 -1.225 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "2097817d-d119-4935-9913-1bed1e38cc28")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 17.9 4.5)
+		(size 1.5 1.5)
+		(drill 0.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "20c0ef4f-4be8-4b54-9620-20e35c156c00")
+	)
+	(pad "2" thru_hole rect
+		(at 17.9 7.04)
+		(size 1.5 1.5)
+		(drill 0.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "273497a0-2970-4215-8349-1ee7a98d572e")
+	)
+	(pad "3" thru_hole rect
+		(at 17.9 9.58)
+		(size 1.5 1.5)
+		(drill 0.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "27002426-3127-4abd-af3b-f10d9aa27cbc")
+	)
+	(pad "4" thru_hole rect
+		(at 17.9 12.12)
+		(size 1.5 1.5)
+		(drill 0.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8f4e3745-f93a-42a4-8a44-e5d884a35ea3")
+	)
+	(pad "5" thru_hole rect
+		(at 2.2 9)
+		(size 1.5 1.5)
+		(drill 0.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "5e5faae9-346b-4c5a-9ffe-e578bf48e30e")
+	)
+	(pad "6" thru_hole rect
+		(at 2.2 11.54)
+		(size 1.5 1.5)
+		(drill 0.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1e4a6858-4dcc-40c9-b8ca-66103cb2715f")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x04_P2.54mm_Vertical.wrl"
+		(offset
+			(xyz 17.85 -4.5 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+	(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.wrl"
+		(offset
+			(xyz 2.2 -9 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)
