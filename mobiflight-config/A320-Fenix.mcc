@@ -1,31 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <MobiflightConnector>
-  <outputs>
-    <config guid="1dcb7b1f-fe9c-472b-8e06-61432f666386">
-      <active>true</active>
-      <description>APU ON</description>
-      <settings msdata:InstanceType="MobiFlight.OutputConfigItem, MFConnector, Version=10.5.3.0, Culture=neutral, PublicKeyToken=null" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-        <source type="SimConnect" VarType="CODE" Value="(L:I_OH_ELEC_APU_START_U)" UUID="846723a2-7a11-4dd6-8aa2-68d3857e43ec" />
-        <test type="Float" value="1" />
-        <modifiers />
-        <display type="Output" serial="MobiFlight Mega/ SN-33a-cbd" trigger="normal" pin="APU Avail" pinBrightness="255" />
-        <preconditions />
-        <configrefs />
-      </settings>
-    </config>
-    <config guid="a896ab0a-8d6b-4dbe-b4a4-0d6dfb2bce52">
-      <active>true</active>
-      <description>APU AVAIL</description>
-      <settings msdata:InstanceType="MobiFlight.OutputConfigItem, MFConnector, Version=10.5.3.0, Culture=neutral, PublicKeyToken=null" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-        <source type="SimConnect" VarType="CODE" Value="(L:I_OH_ELEC_APU_START_L)" UUID="2660d45c-7fc9-467a-8919-feab3ea5d390" />
-        <test type="Float" value="1" />
-        <modifiers />
-        <display type="Output" serial="MobiFlight Mega/ SN-33a-cbd" trigger="normal" pin="APU On" pinBrightness="255" />
-        <preconditions />
-        <configrefs />
-      </settings>
-    </config>
-  </outputs>
+  <outputs />
   <inputs>
     <config guid="c22df14c-f793-4ead-b9e3-dd827d7d5fb1">
       <active>true</active>
