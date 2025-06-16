@@ -7481,7 +7481,7 @@
 		(descr "Through hole straight pin header, 2x05, 2.54mm pitch, double rows")
 		(tags "Through hole pin header THT 2x05 2.54mm double row")
 		(property "Reference" "J2"
-			(at 1.27 2.38 270)
+			(at -2.66 1.12 0)
 			(layer "B.SilkS")
 			(uuid "f032dd4d-48ed-409b-beb8-90912757555a")
 			(effects
@@ -12355,6 +12355,18 @@
 		(layer "F.SilkS")
 		(uuid "f4937c4e-07fe-4dd5-a1cd-57e9cb9407ea")
 	)
+	(gr_poly
+		(pts
+			(xy 210 84.7) (xy 210.8 84) (xy 211.6 84.7)
+		)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "f500d8f5-c051-4d08-858e-900e94cab41e")
+	)
 	(gr_curve
 		(pts
 			(xy 155.545329 80.258376) (xy 155.577479 80.033728) (xy 155.689242 79.923362) (xy 155.880625 79.92726)
@@ -13852,6 +13864,18 @@
 		)
 		(layer "B.SilkS")
 		(uuid "82592800-c03c-4eed-854a-5f062b578b40")
+	)
+	(gr_poly
+		(pts
+			(xy 211.6 84.7) (xy 210.8 84) (xy 210 84.7)
+		)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill yes)
+		(layer "B.SilkS")
+		(uuid "82e5c163-ff4f-464d-907a-1c661f81b04d")
 	)
 	(gr_line
 		(start 165.913777 89.228296)
@@ -15387,6 +15411,45 @@
 		(layer "Edge.Cuts")
 		(uuid "f0391e0f-11ba-4a81-a535-da272ca8af70")
 	)
+	(gr_text "9"
+		(at 202.4 83.7 0)
+		(layer "F.SilkS")
+		(uuid "074ca12d-0040-4284-ae1e-cd343468cac4")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "1"
+		(at 217.8 83.6 0)
+		(layer "F.SilkS")
+		(uuid "1da7bc0e-dedf-4974-93a6-9de285024a16")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "2"
+		(at 217.9 80.6 0)
+		(layer "F.SilkS")
+		(uuid "5a3dd77d-b56b-44c5-8633-e9aa84c3c463")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "https://www.gitgub.com/OpenA3XX - FLT-CTL (CPT) Panel V1.0"
 		(at 118.6 79.1 0)
 		(layer "F.SilkS")
@@ -15423,6 +15486,32 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "10"
+		(at 201.3 80.7 0)
+		(layer "F.SilkS")
+		(uuid "940aa75f-db30-4ee9-8177-eafbd2d36490")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "1"
+		(at 219.5 83.6 -0)
+		(layer "B.SilkS")
+		(uuid "2da7e4db-f136-4f04-8137-4ce12daf2f52")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "Flight Simulation Only"
 		(at 101.9 119.8 0)
 		(layer "B.SilkS")
@@ -15447,6 +15536,19 @@
 			(justify mirror)
 		)
 	)
+	(gr_text "10"
+		(at 204.4 80.7 -0)
+		(layer "B.SilkS")
+		(uuid "4bced20f-37c4-43f3-88ad-eb22eebbe882")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "https://www.gitgub.com/OpenA3XX - FLT-CTL (CPT) Panel V1.0"
 		(at 193 80.1 0)
 		(layer "B.SilkS")
@@ -15458,6 +15560,69 @@
 				(bold yes)
 			)
 			(justify left bottom mirror)
+		)
+	)
+	(gr_text "9"
+		(at 204.1 83.7 -0)
+		(layer "B.SilkS")
+		(uuid "d0d3ea8d-e9a7-4e30-a87e-8ae4226cf095")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "2"
+		(at 219.6 80.6 -0)
+		(layer "B.SilkS")
+		(uuid "ddaec3ed-1f72-47e5-bb5d-afb77273585b")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "1-ELEC1-TOP_LED\n2-ELEC1-BOTTOM_LED\n3-ELEC1-KORRY_SW\n4-SEC1-TOP_LED\n5-SEC1-BOTTOM_LED\n6-SEC1-KORRY_SW\n7-FAC1-TOP_LED\n8-FAC1-BOTTOM_LED\n9-FAC1-KORRY_SW"
+		(at 214.9 92.2 -0)
+		(layer "B.SilkS")
+		(uuid "e096430d-7c0e-4e33-84c3-0f2eb23e581a")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.125)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "+12V \nVariable Backlight"
+		(at 78.5 86.9 -0)
+		(layer "B.SilkS")
+		(uuid "e1f6b9d8-e866-4b50-8e94-f8baf6664461")
+		(effects
+			(font
+				(size 0.4 0.4)
+				(thickness 0.0625)
+			)
+			(justify mirror)
+		)
+	)
+	(gr_text "GND"
+		(at 84.8 86.9 -0)
+		(layer "B.SilkS")
+		(uuid "fe2aed8e-e7cd-4b4e-8923-45ff1871112c")
+		(effects
+			(font
+				(size 0.4 0.4)
+				(thickness 0.0625)
+			)
+			(justify mirror)
 		)
 	)
 	(segment
