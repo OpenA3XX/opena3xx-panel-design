@@ -15602,7 +15602,7 @@
 		)
 	)
 	(gr_text "+12V \nVariable Backlight"
-		(at 78.5 86.9 -0)
+		(at 79.4 86.9 -0)
 		(layer "B.SilkS")
 		(uuid "e1f6b9d8-e866-4b50-8e94-f8baf6664461")
 		(effects
