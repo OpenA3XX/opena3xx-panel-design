@@ -57642,7 +57642,7 @@
 		)
 	)
 	(gr_text "GND"
-		(at 152.44 25.4 -0)
+		(at 139.8 25.8 -0)
 		(layer "B.SilkS")
 		(uuid "9f226ecb-6bb4-42ac-b161-ba3e248836f2")
 		(effects
@@ -57691,7 +57691,7 @@
 		)
 	)
 	(gr_text "+12V \nVariable Backlight"
-		(at 138.14 25.5 -0)
+		(at 154.5 25.5 -0)
 		(layer "B.SilkS")
 		(uuid "c8fb7b25-5718-47ab-adf5-dada6b0f0e03")
 		(effects

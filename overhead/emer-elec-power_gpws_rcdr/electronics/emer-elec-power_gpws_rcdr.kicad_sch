@@ -2240,16 +2240,6 @@
 	)
 	(wire
 		(pts
-			(xy 341.63 339.09) (xy 364.49 339.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0eaf7155-2a89-4e0f-a66b-1f0782e098e6")
-	)
-	(wire
-		(pts
 			(xy 125.73 292.1) (xy 120.65 292.1)
 		)
 		(stroke
@@ -2267,16 +2257,6 @@
 			(type default)
 		)
 		(uuid "101907f0-0c5c-4c87-b3d7-a6f0c7a4ef90")
-	)
-	(wire
-		(pts
-			(xy 359.41 312.42) (xy 370.84 312.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1071552d-1d1d-4af6-b53a-2d18dac78945")
 	)
 	(wire
 		(pts
@@ -2810,16 +2790,6 @@
 	)
 	(wire
 		(pts
-			(xy 364.49 307.34) (xy 364.49 302.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2e264b67-61ea-4c2e-be6d-9bd108cd6750")
-	)
-	(wire
-		(pts
 			(xy 41.91 215.9) (xy 41.91 210.82)
 		)
 		(stroke
@@ -3210,16 +3180,6 @@
 	)
 	(wire
 		(pts
-			(xy 364.49 297.18) (xy 364.49 292.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "446149de-dd4f-4a9c-82fb-2fbde179f5c1")
-	)
-	(wire
-		(pts
 			(xy 212.09 354.33) (xy 212.09 349.25)
 		)
 		(stroke
@@ -3520,16 +3480,6 @@
 	)
 	(wire
 		(pts
-			(xy 351.79 312.42) (xy 341.63 312.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "59613d84-24f2-4827-8cde-088ac5ae7f39")
-	)
-	(wire
-		(pts
 			(xy 73.66 292.1) (xy 68.58 292.1)
 		)
 		(stroke
@@ -3770,16 +3720,6 @@
 	)
 	(wire
 		(pts
-			(xy 341.63 344.17) (xy 341.63 339.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "636985a3-1a25-4802-b740-dd9ce7dca439")
-	)
-	(wire
-		(pts
 			(xy 73.66 297.18) (xy 73.66 292.1)
 		)
 		(stroke
@@ -3907,16 +3847,6 @@
 			(type default)
 		)
 		(uuid "693bcfff-51a3-4e99-a7ea-deb671a76645")
-	)
-	(wire
-		(pts
-			(xy 364.49 339.09) (xy 364.49 334.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6a307e1f-8f18-41a3-baa9-d21ac47801fe")
 	)
 	(wire
 		(pts
@@ -4080,26 +4010,6 @@
 	)
 	(wire
 		(pts
-			(xy 341.63 334.01) (xy 351.79 334.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "71eb6247-57e2-49ea-acc3-9749a1909af4")
-	)
-	(wire
-		(pts
-			(xy 341.63 302.26) (xy 341.63 297.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7244e3e0-58b3-40f8-b2ab-284740d7a072")
-	)
-	(wire
-		(pts
 			(xy 341.63 248.92) (xy 341.63 254)
 		)
 		(stroke
@@ -4200,26 +4110,6 @@
 	)
 	(wire
 		(pts
-			(xy 351.79 354.33) (xy 341.63 354.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "78986f41-3435-494c-ba49-d477e3ef4855")
-	)
-	(wire
-		(pts
-			(xy 341.63 312.42) (xy 341.63 307.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "78c29e8f-9eb0-4dcf-b317-bface84aa341")
-	)
-	(wire
-		(pts
 			(xy 248.92 53.34) (xy 248.92 48.26)
 		)
 		(stroke
@@ -4290,16 +4180,6 @@
 	)
 	(wire
 		(pts
-			(xy 364.49 292.1) (xy 359.41 292.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7bf33aac-df25-4a2e-aaa5-0f7ad5ffdbc9")
-	)
-	(wire
-		(pts
 			(xy 179.07 269.24) (xy 179.07 264.16)
 		)
 		(stroke
@@ -4327,26 +4207,6 @@
 			(type default)
 		)
 		(uuid "7e4e7f8c-3a71-4232-8565-58db2a2d5868")
-	)
-	(wire
-		(pts
-			(xy 386.08 354.33) (xy 386.08 356.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7e831a0a-ea71-4d91-89f1-9d7e3a521728")
-	)
-	(wire
-		(pts
-			(xy 364.49 349.25) (xy 364.49 344.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7edc68a7-2d94-49a4-81e8-ce997630090f")
 	)
 	(wire
 		(pts
@@ -4430,16 +4290,6 @@
 	)
 	(wire
 		(pts
-			(xy 351.79 302.26) (xy 341.63 302.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "81fda4af-c3d0-45d6-9273-b31ebe9b0709")
-	)
-	(wire
-		(pts
 			(xy 212.09 339.09) (xy 234.95 339.09)
 		)
 		(stroke
@@ -4457,26 +4307,6 @@
 			(type default)
 		)
 		(uuid "836ec839-3572-4463-9c55-9be8c8624218")
-	)
-	(wire
-		(pts
-			(xy 341.63 349.25) (xy 364.49 349.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8447cd78-1151-4587-8adb-cf1be8e6c9d3")
-	)
-	(wire
-		(pts
-			(xy 359.41 354.33) (xy 370.84 354.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "844ac74d-1484-49ca-b395-8b5b61e9bdf4")
 	)
 	(wire
 		(pts
@@ -4517,16 +4347,6 @@
 			(type default)
 		)
 		(uuid "870e8ee8-95b2-4221-a699-65a206e08b50")
-	)
-	(wire
-		(pts
-			(xy 386.08 312.42) (xy 386.08 314.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "87823f4b-0e34-4c5e-b08e-9b157374bebc")
 	)
 	(wire
 		(pts
@@ -4720,16 +4540,6 @@
 	)
 	(wire
 		(pts
-			(xy 364.49 302.26) (xy 359.41 302.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "960c7f42-8d95-4734-bc24-9e6578f69f9e")
-	)
-	(wire
-		(pts
 			(xy 179.07 264.16) (xy 173.99 264.16)
 		)
 		(stroke
@@ -4747,16 +4557,6 @@
 			(type default)
 		)
 		(uuid "971f41f0-d530-493d-a8b7-fb884572249e")
-	)
-	(wire
-		(pts
-			(xy 341.63 297.18) (xy 364.49 297.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "97890cec-f3cc-431f-beee-2c44cb043663")
 	)
 	(wire
 		(pts
@@ -5100,16 +4900,6 @@
 	)
 	(wire
 		(pts
-			(xy 341.63 292.1) (xy 351.79 292.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "acdc8d93-33c4-455e-a973-5e0f6be1d9f4")
-	)
-	(wire
-		(pts
 			(xy 300.99 297.18) (xy 300.99 292.1)
 		)
 		(stroke
@@ -5280,16 +5070,6 @@
 	)
 	(wire
 		(pts
-			(xy 351.79 344.17) (xy 341.63 344.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b7dd8e38-28a1-4996-a7c9-2416f6fdd4e4")
-	)
-	(wire
-		(pts
 			(xy 138.43 163.83) (xy 120.65 163.83)
 		)
 		(stroke
@@ -5337,16 +5117,6 @@
 			(type default)
 		)
 		(uuid "bb6c141b-0b07-4318-9289-0ed390065693")
-	)
-	(wire
-		(pts
-			(xy 341.63 354.33) (xy 341.63 349.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bca447da-4bfb-4501-b8e5-a81b2ba1992e")
 	)
 	(wire
 		(pts
@@ -5760,16 +5530,6 @@
 	)
 	(wire
 		(pts
-			(xy 364.49 344.17) (xy 359.41 344.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d0dd3f5e-9e55-4dcd-934f-d7cd167a4d13")
-	)
-	(wire
-		(pts
 			(xy 41.91 171.45) (xy 41.91 166.37)
 		)
 		(stroke
@@ -5847,16 +5607,6 @@
 			(type default)
 		)
 		(uuid "d63b8a3c-f838-411c-a027-228de6dc5335")
-	)
-	(wire
-		(pts
-			(xy 341.63 307.34) (xy 364.49 307.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d8731048-fd33-44b3-9dd0-6c2ff4ea27d3")
 	)
 	(wire
 		(pts
@@ -6040,16 +5790,6 @@
 	)
 	(wire
 		(pts
-			(xy 341.63 287.02) (xy 341.63 292.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e4c9f3e0-888c-4a16-a4f7-81738fc47a57")
-	)
-	(wire
-		(pts
 			(xy 102.87 302.26) (xy 102.87 297.18)
 		)
 		(stroke
@@ -6077,16 +5817,6 @@
 			(type default)
 		)
 		(uuid "e83092ed-4a24-4c5d-9116-d028348abd0d")
-	)
-	(wire
-		(pts
-			(xy 341.63 328.93) (xy 341.63 334.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e95ebdc9-c0df-438b-9a92-7134064cad94")
 	)
 	(wire
 		(pts
@@ -6120,16 +5850,6 @@
 	)
 	(wire
 		(pts
-			(xy 378.46 354.33) (xy 386.08 354.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ea7358fd-137b-4db7-8375-aa1c6908d2c3")
-	)
-	(wire
-		(pts
 			(xy 134.62 166.37) (xy 138.43 166.37)
 		)
 		(stroke
@@ -6140,16 +5860,6 @@
 	)
 	(wire
 		(pts
-			(xy 378.46 312.42) (xy 386.08 312.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eac43be3-03c9-4c1c-91ae-1cfd4e94de05")
-	)
-	(wire
-		(pts
 			(xy 139.7 312.42) (xy 147.32 312.42)
 		)
 		(stroke
@@ -6157,16 +5867,6 @@
 			(type default)
 		)
 		(uuid "eac7a307-b797-4006-876d-88007994fa71")
-	)
-	(wire
-		(pts
-			(xy 364.49 334.01) (xy 359.41 334.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ead2169b-080d-4fb9-b1dc-5c1a7dba620a")
 	)
 	(wire
 		(pts
@@ -6682,74 +6382,6 @@
 			(project "emer-elec-power_gpws_rcdr"
 				(path "/2863dd2e-8fdf-4ab3-b232-5a5479e00371"
 					(reference "#FLG01")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 374.65 354.33 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "02689f78-e452-4d98-901a-d72064a1564a")
-		(property "Reference" "R20"
-			(at 374.65 347.98 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "220R"
-			(at 374.65 350.52 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
-			(at 374.65 356.108 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 374.65 354.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 374.65 354.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "1086b141-eaaa-476f-9e53-60f6d1a2b837")
-		)
-		(pin "1"
-			(uuid "8444bf99-d5c6-437c-8077-b2e17b8e3341")
-		)
-		(instances
-			(project "emer-elec-power_gpws_rcdr"
-				(path "/2863dd2e-8fdf-4ab3-b232-5a5479e00371"
-					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -7311,83 +6943,6 @@
 			(project "emer-elec-power_gpws_rcdr"
 				(path "/2863dd2e-8fdf-4ab3-b232-5a5479e00371"
 					(reference "D34")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 355.6 344.17 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "13088925-9d11-4ca6-b0dd-7d6509abde41")
-		(property "Reference" "D57"
-			(at 357.1875 336.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED"
-			(at 357.1875 339.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "OpenA3XX:LED_Everlight-SMD3528_3.5x2.8mm_67-21ST"
-			(at 355.6 344.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 355.6 344.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 355.6 344.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 355.6 344.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c71c93f2-c9e5-4f6c-80ca-43312bfab5d9")
-		)
-		(pin "2"
-			(uuid "3f14518a-8216-4d2a-a8c4-536837032a47")
-		)
-		(instances
-			(project "emer-elec-power_gpws_rcdr"
-				(path "/2863dd2e-8fdf-4ab3-b232-5a5479e00371"
-					(reference "D57")
 					(unit 1)
 				)
 			)
@@ -8532,83 +8087,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED")
-		(at 355.6 334.01 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3fb6dbea-c344-456e-98f7-24f3492d2e99")
-		(property "Reference" "D56"
-			(at 357.1875 326.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED"
-			(at 357.1875 328.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "OpenA3XX:LED_Everlight-SMD3528_3.5x2.8mm_67-21ST"
-			(at 355.6 334.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 355.6 334.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 355.6 334.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 355.6 334.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "332c3b9b-90bf-4162-b091-81fa093fccda")
-		)
-		(pin "2"
-			(uuid "637103d9-88b0-48fc-82be-07895041515b")
-		)
-		(instances
-			(project "emer-elec-power_gpws_rcdr"
-				(path "/2863dd2e-8fdf-4ab3-b232-5a5479e00371"
-					(reference "D56")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+12V")
 		(at 156.21 328.93 0)
 		(unit 1)
@@ -9377,83 +8855,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED")
-		(at 355.6 312.42 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5a6aa1fc-8bc1-4d65-8514-af376307c241")
-		(property "Reference" "D55"
-			(at 357.1875 304.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED"
-			(at 357.1875 307.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "OpenA3XX:LED_Everlight-SMD3528_3.5x2.8mm_67-21ST"
-			(at 355.6 312.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 355.6 312.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 355.6 312.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 355.6 312.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7b4ab935-639b-4ef5-82a8-3df112397b1e")
-		)
-		(pin "2"
-			(uuid "315a0b0f-2dfd-4063-87df-e735d36b9f33")
-		)
-		(instances
-			(project "emer-elec-power_gpws_rcdr"
-				(path "/2863dd2e-8fdf-4ab3-b232-5a5479e00371"
-					(reference "D55")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 210.82 71.12 0)
 		(unit 1)
@@ -9582,70 +8983,6 @@
 			(project "emer-elec-power_gpws_rcdr"
 				(path "/2863dd2e-8fdf-4ab3-b232-5a5479e00371"
 					(reference "R17")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+12V")
-		(at 341.63 328.93 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "5c1c3c08-d69d-4e6f-9c80-8ad03071954c")
-		(property "Reference" "#PWR049"
-			(at 341.63 332.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+12V"
-			(at 342.011 324.5358 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 341.63 328.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 341.63 328.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 341.63 328.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "944d2463-4256-4171-8415-27da7ba6a01f")
-		)
-		(instances
-			(project "emer-elec-power_gpws_rcdr"
-				(path "/2863dd2e-8fdf-4ab3-b232-5a5479e00371"
-					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -10636,83 +9973,6 @@
 			(project "emer-elec-power_gpws_rcdr"
 				(path "/2863dd2e-8fdf-4ab3-b232-5a5479e00371"
 					(reference "#PWR047")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 355.6 354.33 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "72d900cb-9c29-43ca-b910-83e099097ebf")
-		(property "Reference" "D58"
-			(at 357.1875 346.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED"
-			(at 357.1875 349.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "OpenA3XX:LED_Everlight-SMD3528_3.5x2.8mm_67-21ST"
-			(at 355.6 354.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 355.6 354.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 355.6 354.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 355.6 354.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "accb42fa-b8d8-407f-aad6-c1d27073cebd")
-		)
-		(pin "2"
-			(uuid "e36e9cb3-3424-4c42-aa53-eec0b70f7c75")
-		)
-		(instances
-			(project "emer-elec-power_gpws_rcdr"
-				(path "/2863dd2e-8fdf-4ab3-b232-5a5479e00371"
-					(reference "D58")
 					(unit 1)
 				)
 			)
@@ -12374,72 +11634,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 386.08 356.87 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9720adfb-2a9b-4dfd-9a93-8050e8e1d2cc")
-		(property "Reference" "#PWR052"
-			(at 386.08 363.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 386.08 361.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 386.08 356.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 386.08 356.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 386.08 356.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7702de66-9c9b-4b61-88d3-5ae4caa86368")
-		)
-		(instances
-			(project "emer-elec-power_gpws_rcdr"
-				(path "/2863dd2e-8fdf-4ab3-b232-5a5479e00371"
-					(reference "#PWR052")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:LED")
 		(at 170.18 254 180)
 		(unit 1)
@@ -12511,74 +11705,6 @@
 			(project "emer-elec-power_gpws_rcdr"
 				(path "/2863dd2e-8fdf-4ab3-b232-5a5479e00371"
 					(reference "D23")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 374.65 312.42 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9b91548d-88cb-4059-a74d-b805b6148f55")
-		(property "Reference" "R19"
-			(at 374.65 306.07 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "220R"
-			(at 374.65 308.61 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
-			(at 374.65 314.198 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 374.65 312.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 374.65 312.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "9596a539-de98-407c-80a1-e0392013c670")
-		)
-		(pin "1"
-			(uuid "c41e8f8d-ed62-4d8c-b7d8-c0cddd3964e4")
-		)
-		(instances
-			(project "emer-elec-power_gpws_rcdr"
-				(path "/2863dd2e-8fdf-4ab3-b232-5a5479e00371"
-					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -12870,83 +11996,6 @@
 			(project "emer-elec-power_gpws_rcdr"
 				(path "/2863dd2e-8fdf-4ab3-b232-5a5479e00371"
 					(reference "D27")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 355.6 302.26 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9fb9e1b8-dfa8-4f21-b376-8f27fff7272e")
-		(property "Reference" "D54"
-			(at 357.1875 294.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED"
-			(at 357.1875 297.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "OpenA3XX:LED_Everlight-SMD3528_3.5x2.8mm_67-21ST"
-			(at 355.6 302.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 355.6 302.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 355.6 302.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 355.6 302.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "53045233-e5a5-4384-9e3c-f5c7a88363ac")
-		)
-		(pin "2"
-			(uuid "b74ea0a1-8953-405d-aa1a-97776006d08b")
-		)
-		(instances
-			(project "emer-elec-power_gpws_rcdr"
-				(path "/2863dd2e-8fdf-4ab3-b232-5a5479e00371"
-					(reference "D54")
 					(unit 1)
 				)
 			)
@@ -14485,147 +13534,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+12V")
-		(at 341.63 287.02 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "cbdc552d-1f5d-4b88-86c3-8313f013cf4e")
-		(property "Reference" "#PWR048"
-			(at 341.63 290.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+12V"
-			(at 342.011 282.6258 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 341.63 287.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 341.63 287.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 341.63 287.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "163594a4-104b-4e1c-8cc2-c4be22e04236")
-		)
-		(instances
-			(project "emer-elec-power_gpws_rcdr"
-				(path "/2863dd2e-8fdf-4ab3-b232-5a5479e00371"
-					(reference "#PWR048")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 355.6 292.1 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ce3aecf4-3d03-4142-872b-1cd2b386a669")
-		(property "Reference" "D53"
-			(at 357.1875 284.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED"
-			(at 357.1875 287.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "OpenA3XX:LED_Everlight-SMD3528_3.5x2.8mm_67-21ST"
-			(at 355.6 292.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 355.6 292.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 355.6 292.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 355.6 292.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c5bb8751-dfce-42cd-a035-4d17a8e113fb")
-		)
-		(pin "2"
-			(uuid "dbc73320-3686-4bee-a55f-9487ebb2ef1d")
-		)
-		(instances
-			(project "emer-elec-power_gpws_rcdr"
-				(path "/2863dd2e-8fdf-4ab3-b232-5a5479e00371"
-					(reference "D53")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector_Generic:Conn_02x01")
 		(at 210.82 60.96 90)
 		(unit 1)
@@ -15592,72 +14500,6 @@
 			(project "emer-elec-power_gpws_rcdr"
 				(path "/2863dd2e-8fdf-4ab3-b232-5a5479e00371"
 					(reference "D11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 386.08 314.96 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e5f88458-96d9-450f-aaa0-72572a1a4b3b")
-		(property "Reference" "#PWR051"
-			(at 386.08 321.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 386.08 320.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 386.08 314.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 386.08 314.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 386.08 314.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fe75cbda-0174-4929-a32b-ff09c5660192")
-		)
-		(instances
-			(project "emer-elec-power_gpws_rcdr"
-				(path "/2863dd2e-8fdf-4ab3-b232-5a5479e00371"
-					(reference "#PWR051")
 					(unit 1)
 				)
 			)
