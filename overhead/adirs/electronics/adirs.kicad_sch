@@ -6373,7 +6373,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
+		(property "Footprint" "OpenA3XX:LED_Everlight-SMD3528_3.5x2.8mm_67-21ST"
 			(at 241.3 135.89 0)
 			(effects
 				(font
@@ -6518,7 +6518,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
+		(property "Footprint" "OpenA3XX:LED_Everlight-SMD3528_3.5x2.8mm_67-21ST"
 			(at 189.23 93.98 0)
 			(effects
 				(font
@@ -6595,7 +6595,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
+		(property "Footprint" "OpenA3XX:LED_Everlight-SMD3528_3.5x2.8mm_67-21ST"
 			(at 350.52 66.04 0)
 			(effects
 				(font
@@ -6672,7 +6672,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
+		(property "Footprint" "OpenA3XX:LED_Everlight-SMD3528_3.5x2.8mm_67-21ST"
 			(at 189.23 104.14 0)
 			(effects
 				(font
@@ -6749,7 +6749,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
+		(property "Footprint" "OpenA3XX:LED_Everlight-SMD3528_3.5x2.8mm_67-21ST"
 			(at 294.64 55.88 0)
 			(effects
 				(font
@@ -6894,7 +6894,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
+		(property "Footprint" "OpenA3XX:LED_Everlight-SMD3528_3.5x2.8mm_67-21ST"
 			(at 350.52 55.88 0)
 			(effects
 				(font
@@ -7039,7 +7039,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
+		(property "Footprint" "OpenA3XX:LED_Everlight-SMD3528_3.5x2.8mm_67-21ST"
 			(at 294.64 135.89 0)
 			(effects
 				(font
@@ -7528,7 +7528,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
+		(property "Footprint" "OpenA3XX:LED_Everlight-SMD3528_3.5x2.8mm_67-21ST"
 			(at 242.57 170.18 0)
 			(effects
 				(font
@@ -7737,7 +7737,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
+		(property "Footprint" "OpenA3XX:LED_Everlight-SMD3528_3.5x2.8mm_67-21ST"
 			(at 189.23 135.89 0)
 			(effects
 				(font
@@ -7878,7 +7878,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
+		(property "Footprint" "OpenA3XX:LED_Everlight-SMD3528_3.5x2.8mm_67-21ST"
 			(at 294.64 104.14 0)
 			(effects
 				(font
@@ -7955,7 +7955,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
+		(property "Footprint" "OpenA3XX:LED_Everlight-SMD3528_3.5x2.8mm_67-21ST"
 			(at 294.64 66.04 0)
 			(effects
 				(font
@@ -8032,7 +8032,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
+		(property "Footprint" "OpenA3XX:LED_Everlight-SMD3528_3.5x2.8mm_67-21ST"
 			(at 241.3 45.72 0)
 			(effects
 				(font
@@ -8315,7 +8315,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
+		(property "Footprint" "OpenA3XX:LED_Everlight-SMD3528_3.5x2.8mm_67-21ST"
 			(at 294.64 83.82 0)
 			(effects
 				(font
@@ -8524,7 +8524,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
+		(property "Footprint" "OpenA3XX:LED_Everlight-SMD3528_3.5x2.8mm_67-21ST"
 			(at 294.64 146.05 0)
 			(effects
 				(font
@@ -8735,7 +8735,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
+		(property "Footprint" "OpenA3XX:LED_Everlight-SMD3528_3.5x2.8mm_67-21ST"
 			(at 350.52 104.14 0)
 			(effects
 				(font
@@ -8940,7 +8940,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
+		(property "Footprint" "OpenA3XX:LED_Everlight-SMD3528_3.5x2.8mm_67-21ST"
 			(at 241.3 66.04 0)
 			(effects
 				(font
@@ -9349,7 +9349,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
+		(property "Footprint" "OpenA3XX:LED_Everlight-SMD3528_3.5x2.8mm_67-21ST"
 			(at 350.52 45.72 0)
 			(effects
 				(font
@@ -9706,7 +9706,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
+		(property "Footprint" "OpenA3XX:LED_Everlight-SMD3528_3.5x2.8mm_67-21ST"
 			(at 350.52 83.82 0)
 			(effects
 				(font
@@ -9783,7 +9783,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
+		(property "Footprint" "OpenA3XX:LED_Everlight-SMD3528_3.5x2.8mm_67-21ST"
 			(at 189.23 189.23 0)
 			(effects
 				(font
@@ -9860,7 +9860,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
+		(property "Footprint" "OpenA3XX:LED_Everlight-SMD3528_3.5x2.8mm_67-21ST"
 			(at 189.23 146.05 0)
 			(effects
 				(font
@@ -10005,7 +10005,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
+		(property "Footprint" "OpenA3XX:LED_Everlight-SMD3528_3.5x2.8mm_67-21ST"
 			(at 350.52 125.73 0)
 			(effects
 				(font
@@ -10146,7 +10146,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
+		(property "Footprint" "OpenA3XX:LED_Everlight-SMD3528_3.5x2.8mm_67-21ST"
 			(at 294.64 45.72 0)
 			(effects
 				(font
@@ -10355,7 +10355,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
+		(property "Footprint" "OpenA3XX:LED_Everlight-SMD3528_3.5x2.8mm_67-21ST"
 			(at 294.64 93.98 0)
 			(effects
 				(font
@@ -10432,7 +10432,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
+		(property "Footprint" "OpenA3XX:LED_Everlight-SMD3528_3.5x2.8mm_67-21ST"
 			(at 241.3 125.73 0)
 			(effects
 				(font
@@ -10641,7 +10641,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
+		(property "Footprint" "OpenA3XX:LED_Everlight-SMD3528_3.5x2.8mm_67-21ST"
 			(at 189.23 45.72 0)
 			(effects
 				(font
@@ -10718,7 +10718,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
+		(property "Footprint" "OpenA3XX:LED_Everlight-SMD3528_3.5x2.8mm_67-21ST"
 			(at 189.23 55.88 0)
 			(effects
 				(font
@@ -11097,7 +11097,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
+		(property "Footprint" "OpenA3XX:LED_Everlight-SMD3528_3.5x2.8mm_67-21ST"
 			(at 189.23 83.82 0)
 			(effects
 				(font
@@ -11174,7 +11174,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
+		(property "Footprint" "OpenA3XX:LED_Everlight-SMD3528_3.5x2.8mm_67-21ST"
 			(at 241.3 93.98 0)
 			(effects
 				(font
@@ -11317,7 +11317,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
+		(property "Footprint" "OpenA3XX:LED_Everlight-SMD3528_3.5x2.8mm_67-21ST"
 			(at 241.3 104.14 0)
 			(effects
 				(font
@@ -11458,7 +11458,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
+		(property "Footprint" "OpenA3XX:LED_Everlight-SMD3528_3.5x2.8mm_67-21ST"
 			(at 189.23 168.91 0)
 			(effects
 				(font
@@ -11603,7 +11603,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
+		(property "Footprint" "OpenA3XX:LED_Everlight-SMD3528_3.5x2.8mm_67-21ST"
 			(at 241.3 83.82 0)
 			(effects
 				(font
@@ -12272,7 +12272,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
+		(property "Footprint" "OpenA3XX:LED_Everlight-SMD3528_3.5x2.8mm_67-21ST"
 			(at 350.52 146.05 0)
 			(effects
 				(font
@@ -12497,7 +12497,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
+		(property "Footprint" "OpenA3XX:LED_Everlight-SMD3528_3.5x2.8mm_67-21ST"
 			(at 189.23 179.07 0)
 			(effects
 				(font
@@ -13006,7 +13006,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
+		(property "Footprint" "OpenA3XX:LED_Everlight-SMD3528_3.5x2.8mm_67-21ST"
 			(at 189.23 125.73 0)
 			(effects
 				(font
@@ -13083,7 +13083,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
+		(property "Footprint" "OpenA3XX:LED_Everlight-SMD3528_3.5x2.8mm_67-21ST"
 			(at 241.3 146.05 0)
 			(effects
 				(font
@@ -13160,7 +13160,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
+		(property "Footprint" "OpenA3XX:LED_Everlight-SMD3528_3.5x2.8mm_67-21ST"
 			(at 189.23 66.04 0)
 			(effects
 				(font
@@ -13237,7 +13237,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
+		(property "Footprint" "OpenA3XX:LED_Everlight-SMD3528_3.5x2.8mm_67-21ST"
 			(at 350.52 135.89 0)
 			(effects
 				(font
@@ -13380,7 +13380,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
+		(property "Footprint" "OpenA3XX:LED_Everlight-SMD3528_3.5x2.8mm_67-21ST"
 			(at 294.64 125.73 0)
 			(effects
 				(font
@@ -13457,7 +13457,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
+		(property "Footprint" "OpenA3XX:LED_Everlight-SMD3528_3.5x2.8mm_67-21ST"
 			(at 350.52 93.98 0)
 			(effects
 				(font
@@ -13534,7 +13534,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
+		(property "Footprint" "OpenA3XX:LED_Everlight-SMD3528_3.5x2.8mm_67-21ST"
 			(at 241.3 55.88 0)
 			(effects
 				(font
