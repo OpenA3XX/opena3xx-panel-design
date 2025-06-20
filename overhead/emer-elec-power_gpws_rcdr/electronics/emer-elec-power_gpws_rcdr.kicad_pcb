@@ -20159,7 +20159,7 @@
 		(descr "3.5mm x 2.8mm mid-power LED, https://www.everlight.com/wp-content/plugins/ItemRelationship/product_files/pdf/DSE-0020730-67-21ST-KK6C-HXXXX96Z6-2T_V3.pdf")
 		(tags "LED 3528")
 		(property "Reference" "D41"
-			(at 0 -2.4 0)
+			(at -2.39 3.2 90)
 			(layer "F.SilkS")
 			(uuid "f5d19e9b-9d48-48fb-8ef0-1ae6936f77db")
 			(effects
@@ -102048,6 +102048,19 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "https://www.github.com/OpenA3XX - EMER_ELEC_POWER_GPWS_RCDR V1.0"
+		(at 105.7 30.4 0)
+		(layer "F.SilkS")
+		(uuid "82b70480-c6ba-44f6-b55c-e796cb15d7cf")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "Flight Simulation Only"
 		(at 75.3 142.9 0)
 		(layer "F.SilkS")
@@ -102131,6 +102144,19 @@
 				(thickness 0.0625)
 			)
 			(justify mirror)
+		)
+	)
+	(gr_text "https://www.github.com/OpenA3XX - EMER_ELEC_POWER_GPWS_RCDR V1.0"
+		(at 189 160.6 0)
+		(layer "B.SilkS")
+		(uuid "d75c95db-9b88-48c7-ade2-286f0417f87f")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom mirror)
 		)
 	)
 	(gr_text "+12V \nVariable Backlight"
