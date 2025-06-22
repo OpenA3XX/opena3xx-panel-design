@@ -488,7 +488,7 @@
       "netlist": "",
       "plot": "",
       "pos_files": "",
-      "specctra_dsn": "",
+      "specctra_dsn": "lights.dsn",
       "step": "",
       "svg": "",
       "vrml": ""

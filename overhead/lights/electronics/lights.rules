@@ -1,0 +1,102 @@
+
+(rules PCB lights.dsn
+  (snap_angle 
+    fortyfive_degree
+  )
+  (autoroute_settings
+    (fanout off)
+    (autoroute on)
+    (postroute off)
+    (vias on)
+    (via_costs 50)
+    (plane_via_costs 5)
+    (start_ripup_costs 100)
+    (start_pass_no 1)
+    (layer_rule F.Cu
+      (active on)
+      (preferred_direction horizontal)
+      (preferred_direction_trace_costs 1.0)
+      (against_preferred_direction_trace_costs 4.9)
+    )
+    (layer_rule B.Cu
+      (active on)
+      (preferred_direction vertical)
+      (preferred_direction_trace_costs 1.0)
+      (against_preferred_direction_trace_costs 2.9)
+    )
+  )
+  (rule
+    (width 500.0)
+    (clearance 200.0)
+    (clearance 100.0 (type smd_to_turn_gap))
+    (clearance 50.0 (type smd))
+    (clearance 200.0 (type "kicad_default"))
+  )
+  (padstack "Via[0-1]_600:300_um"
+    (shape
+      (circle F.Cu 600.0 0.0 0.0)
+    )
+    (shape
+      (circle B.Cu 600.0 0.0 0.0)
+    )
+    (attach off)
+  )
+  (via 
+    "Via[0-1]_600:300_um" "Via[0-1]_600:300_um" default
+  )
+  (via 
+    "Via[0-1]_600:300_um-kicad_default" "Via[0-1]_600:300_um" "kicad_default"
+  )
+  (via_rule
+    default "Via[0-1]_600:300_um"
+  )
+  (via_rule
+    "kicad_default" "Via[0-1]_600:300_um-kicad_default"
+  )
+  (class default
+    +12V
+    (clearance_class default)
+    (via_rule default)
+    (rule
+      (width 500.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+  (class "kicad_default"
+    "Net-(D1-K)" "Net-(D2-K)" "Net-(D3-K)" "Net-(D4-K)" "Net-(D5-K)" "Net-(D6-K)" "Net-(D7-K)" "Net-(D8-K)"
+    "Net-(D9-K)" "Net-(D10-K)" "Net-(D11-K)" "Net-(D12-K)" "Net-(D13-K)" "Net-(D14-K)" "Net-(D15-K)" "Net-(D16-K)"
+    "Net-(D17-K)" "Net-(D18-K)" "Net-(D19-K)" "Net-(D20-K)" "Net-(D21-K)" "Net-(D22-K)" "Net-(D23-K)" "Net-(D24-K)"
+    "Net-(D25-K)" "Net-(D26-K)" "Net-(D27-K)" "Net-(D28-K)" "Net-(D29-K)" "Net-(D30-K)" "Net-(D31-K)" "Net-(D32-K)"
+    "Net-(D33-K)" "Net-(D34-K)" "Net-(D35-K)" "Net-(D36-K)" "Net-(D37-K)" "Net-(D38-K)" "Net-(D39-K)" "Net-(D40-K)"
+    "Net-(D41-K)" "Net-(D42-K)" "Net-(D43-K)" "Net-(D44-K)" "Net-(D45-K)" "Net-(D46-K)" "Net-(D47-K)" "Net-(D48-K)"
+    "Net-(D49-K)" "Net-(D50-K)" "Net-(D51-K)" "Net-(D52-K)" "Net-(J1-Pin_35)" "Net-(J1-Pin_30)" GND "unconnected-(J1-Pin_39-Pad39)"
+    "Net-(J1-Pin_28)" "Net-(J1-Pin_10)" "Net-(J1-Pin_37)" "Net-(J1-Pin_32)" "Net-(J1-Pin_7)" "Net-(J1-Pin_24)" "Net-(J1-Pin_6)" "Net-(J1-Pin_18)"
+    "Net-(J1-Pin_23)" "Net-(J1-Pin_19)" "Net-(J1-Pin_26)" "Net-(J1-Pin_27)" "Net-(J1-Pin_33)" "Net-(J1-Pin_14)" "Net-(J1-Pin_16)" "Net-(J1-Pin_20)"
+    "Net-(J1-Pin_31)" "Net-(J1-Pin_12)" "Net-(J1-Pin_4)" "Net-(J1-Pin_21)" "Net-(J1-Pin_8)" "Net-(J1-Pin_22)" "Net-(J1-Pin_17)" "Net-(J1-Pin_34)"
+    "Net-(J1-Pin_29)" "Net-(J1-Pin_11)" "Net-(J1-Pin_13)" "Net-(J1-Pin_25)" "Net-(J1-Pin_9)" "Net-(J1-Pin_36)" "unconnected-(J1-Pin_40-Pad40)" "Net-(J1-Pin_5)"
+    "Net-(J1-Pin_15)" "Net-(J1-Pin_38)" "Net-(J10-Pin_6)" "Net-(J10-Pin_23)" "Net-(J10-Pin_14)" "Net-(J10-Pin_10)" "Net-(J10-Pin_21)" "Net-(J10-Pin_35)"
+    "Net-(J10-Pin_26)" "Net-(J10-Pin_15)" "Net-(J10-Pin_20)" "Net-(J10-Pin_7)" "Net-(J10-Pin_28)" "Net-(J10-Pin_11)" "Net-(J10-Pin_18)" "unconnected-(J10-Pin_37-Pad37)"
+    "Net-(J10-Pin_34)" "Net-(J10-Pin_25)" "Net-(J10-Pin_3)" "Net-(J10-Pin_2)" "Net-(J10-Pin_32)" "Net-(J10-Pin_24)" "Net-(J10-Pin_29)" "Net-(J10-Pin_4)"
+    "unconnected-(J10-Pin_39-Pad39)" "Net-(J10-Pin_1)" "Net-(J10-Pin_12)" "Net-(J10-Pin_31)" "Net-(J10-Pin_5)" "Net-(J10-Pin_27)" "Net-(J10-Pin_19)" "unconnected-(J10-Pin_40-Pad40)"
+    "Net-(J10-Pin_16)" "Net-(J10-Pin_30)" "Net-(J10-Pin_22)" "unconnected-(J10-Pin_38-Pad38)" "Net-(J10-Pin_13)" "Net-(J10-Pin_9)" "Net-(J10-Pin_36)" "Net-(J10-Pin_8)"
+    "Net-(J10-Pin_17)" "Net-(J10-Pin_33)" "Net-(J11-Pin_1)" "Net-(J11-Pin_2)" "Net-(J11-Pin_3)" "Net-(J1-Pin_3)" "Net-(J1-Pin_1)" "Net-(J1-Pin_2)"
+    "Net-(D53-K)" "Net-(D54-K)" "Net-(D55-K)" "Net-(D56-K)" "Net-(D57-K)" "Net-(D58-K)" "Net-(D59-K)" "Net-(D60-K)"
+    "Net-(D61-K)" "Net-(D62-K)" "Net-(D63-K)" "Net-(D64-K)" "Net-(D65-K)" "Net-(D66-K)" "Net-(D67-K)" "Net-(D68-K)"
+    "Net-(D69-K)" "Net-(D70-K)" "Net-(D71-K)" "Net-(D72-K)" "Net-(D73-K)" "Net-(D74-K)" "Net-(D75-K)" "Net-(D76-K)"
+    "Net-(D77-K)" "Net-(D78-K)" "Net-(D79-K)" "Net-(D80-K)" "Net-(D81-K)" "Net-(D82-K)" "Net-(D83-K)" "Net-(D84-K)"
+    "Net-(D85-K)" "Net-(D86-K)" "Net-(D87-K)" "Net-(D88-K)" "Net-(D89-K)" "Net-(D90-K)" "Net-(D91-K)" "Net-(D92-K)"
+    "Net-(D93-K)" "Net-(D94-K)" "Net-(D95-K)" "Net-(D96-K)" "Net-(D97-K)" "Net-(D98-K)" "Net-(D100-A)" "Net-(D100-K)"
+    "Net-(D101-K)" "Net-(D102-K)" "Net-(D103-K)" "Net-(D104-K)" "Net-(D105-K)" "Net-(D106-K)" "Net-(D107-K)" "Net-(D108-K)"
+    "Net-(D109-K)" "Net-(D110-K)" "Net-(D111-K)" "Net-(D112-K)" "Net-(D113-K)" "Net-(D114-K)" "Net-(D115-K)" "Net-(D116-K)"
+    (clearance_class "kicad_default")
+    (via_rule "kicad_default")
+    (rule
+      (width 200.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+)
