@@ -1,4 +1,5 @@
 # 🛫 OpenA3XX: Panels, 3D Printed Components & Reference Archive
+![image](https://github.com/user-attachments/assets/cf09eccf-12f5-4056-abd3-4595e68aca68)
 
 Welcome to the central repository for the OpenA3XX **Airbus cockpit build project**! This repository documents the design, construction, and references for all the cockpit panels and components, including 3D printed parts and photographic material used during development.
 
@@ -11,5 +12,9 @@ As part of a long-term flight simulation setup, I'm building a **home Airbus coc
 - 3D printed components (knobs, switch housings, structural parts)
 - Design schematics, templates, and notes from real-world dimensions
 - Documentation of tools and techniques used in building panels
+
+  ![image](https://github.com/user-attachments/assets/228322b6-9758-4fdf-816b-faeca8f58dfb)
+
+![image](https://github.com/user-attachments/assets/c0b39381-a129-4aed-8ca0-fc69c3dbc238)
 
 This repository serves as a **knowledge base** and a **design vault** for other sim builders and enthusiasts who are building or planning to build their own Airbus home cockpit.
