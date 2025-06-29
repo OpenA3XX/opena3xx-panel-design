@@ -1,7 +1,13 @@
 # 🛫 OpenA3XX: Panels, 3D Printed Components & Reference Archive
-![image](https://github.com/user-attachments/assets/cf09eccf-12f5-4056-abd3-4595e68aca68)
-
 Welcome to the central repository for the OpenA3XX **Airbus cockpit build project**! This repository documents the design, construction, and references for all the cockpit panels and components, including 3D printed parts and photographic material used during development.
+
+![image](https://github.com/user-attachments/assets/deda6699-7c23-4502-9b78-9d4b8dc4610e)
+---
+https://github.com/OpenA3XX/opena3xx-panel-design
+---
+![image](https://github.com/user-attachments/assets/5a76383c-9e9c-42b5-86b1-c4eeb7c69c32)
+
+
 
 ## ✈️ About the Project
 
