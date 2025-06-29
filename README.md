@@ -3,7 +3,7 @@ Welcome to the central repository for the OpenA3XX **Airbus cockpit build projec
 
 ![image](https://github.com/user-attachments/assets/deda6699-7c23-4502-9b78-9d4b8dc4610e)
 ---
-https://github.com/OpenA3XX/opena3xx-panel-design
+![image](https://github.com/user-attachments/assets/2d71e62c-4661-45c8-a3ad-0078b6532fd3)
 ---
 ![image](https://github.com/user-attachments/assets/5a76383c-9e9c-42b5-86b1-c4eeb7c69c32)
 
