@@ -26,7 +26,7 @@
     )
   )
   (rule
-    (width 800.0)
+    (width 600.0)
     (clearance 200.0)
     (clearance 100.0 (type smd_to_turn_gap))
     (clearance 50.0 (type smd))
@@ -54,24 +54,30 @@
     "kicad_default" "Via[0-1]_600:300_um-kicad_default"
   )
   (class default
+    +12V
     (clearance_class default)
     (via_rule default)
     (rule
-      (width 800.0)
+      (width 600.0)
     )
     (circuit 
       (use_layer F.Cu B.Cu)
     )
   )
   (class "kicad_default"
-    "Net-(D1-K)" +12V "Net-(D2-K)" "Net-(D3-K)" "Net-(D4-K)" "Net-(D5-K)" "Net-(D6-K)" "Net-(D7-K)"
-    "Net-(D8-K)" "Net-(D9-K)" "Net-(D10-K)" "Net-(D11-K)" "Net-(D12-K)" "Net-(D13-K)" "Net-(D14-K)" "Net-(D15-K)"
-    "Net-(D16-K)" "Net-(D17-K)" "Net-(D18-K)" GND "Net-(J2-Pin_2)" "Net-(J3-Pin_5)" "Net-(J3-Pin_1)" "Net-(J3-Pin_2)"
-    "Net-(J3-Pin_3)" "unconnected-(J3-Pin_6-Pad6)" "Net-(D19-K)" "Net-(D20-K)" "Net-(D21-K)" "Net-(D22-K)" "Net-(D23-K)" "Net-(D24-K)"
+    "Net-(D1-K)" "Net-(D2-K)" "Net-(D3-K)" "Net-(D4-K)" "Net-(D5-K)" "Net-(D6-K)" "Net-(D7-K)" "Net-(D8-K)"
+    "Net-(D9-K)" "Net-(D10-K)" "Net-(D11-K)" "Net-(D12-K)" "Net-(D13-K)" "Net-(D14-K)" "Net-(D15-K)" "Net-(D16-K)"
+    "Net-(D17-K)" "Net-(D18-K)" GND "Net-(J2-Pin_2)" "Net-(J3-Pin_5)" "Net-(J3-Pin_1)" "Net-(J3-Pin_2)" "Net-(J3-Pin_3)"
+    "unconnected-(J3-Pin_15-Pad15)" "Net-(D19-K)" "Net-(D20-K)" "Net-(D21-K)" "Net-(D22-K)" "Net-(D23-K)" "Net-(D24-K)" "unconnected-(J3-Pin_13-Pad13)"
+    "unconnected-(J3-Pin_8-Pad8)" "unconnected-(J3-Pin_10-Pad10)" "unconnected-(J3-Pin_27-Pad27)" "unconnected-(J3-Pin_38-Pad38)" "unconnected-(J3-Pin_7-Pad7)" "unconnected-(J3-Pin_30-Pad30)" "unconnected-(J3-Pin_28-Pad28)" "unconnected-(J3-Pin_40-Pad40)"
+    "unconnected-(J3-Pin_14-Pad14)" "unconnected-(J3-Pin_17-Pad17)" "unconnected-(J3-Pin_18-Pad18)" "unconnected-(J3-Pin_19-Pad19)" "unconnected-(J3-Pin_16-Pad16)" "unconnected-(J3-Pin_29-Pad29)" "unconnected-(J3-Pin_31-Pad31)" "unconnected-(J3-Pin_34-Pad34)"
+    "unconnected-(J3-Pin_33-Pad33)" "unconnected-(J3-Pin_11-Pad11)" "unconnected-(J3-Pin_12-Pad12)" "unconnected-(J3-Pin_23-Pad23)" "unconnected-(J3-Pin_20-Pad20)" "unconnected-(J3-Pin_39-Pad39)" "unconnected-(J3-Pin_37-Pad37)" "unconnected-(J3-Pin_26-Pad26)"
+    "unconnected-(J3-Pin_24-Pad24)" "unconnected-(J3-Pin_21-Pad21)" "unconnected-(J3-Pin_36-Pad36)" "unconnected-(J3-Pin_35-Pad35)" "unconnected-(J3-Pin_32-Pad32)" "Net-(J3-Pin_6)" "unconnected-(J3-Pin_22-Pad22)" "unconnected-(J3-Pin_25-Pad25)"
+    "unconnected-(J3-Pin_9-Pad9)"
     (clearance_class "kicad_default")
     (via_rule "kicad_default")
     (rule
-      (width 800.0)
+      (width 400.0)
     )
     (circuit 
       (use_layer F.Cu B.Cu)

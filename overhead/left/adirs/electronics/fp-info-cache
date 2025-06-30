@@ -1,4 +1,4 @@
-25606325632440524
+25608076344697983
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -70762,6 +70762,13 @@ net tie
 0
 4
 4
+OpenA3XX
+Disp7s3x_036
+7 segments x4 display, 0.36 inch
+display
+0
+12
+12
 OpenA3XX
 Korry Switch
 

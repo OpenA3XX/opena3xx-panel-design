@@ -1,0 +1,31 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+D1,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,116.91,-89.4,0.0,top
+D10,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,111.945,-102.5,0.0,top
+D11,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,144.885,-103.7,0.0,top
+D12,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,177.285,-105.2,0.0,top
+D13,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,207.41,-105.1,0.0,top
+D14,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,122.36,-119.45,0.0,top
+D15,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,136.56,-119.475,0.0,top
+D16,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,177.26,-118.725,0.0,top
+D17,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,204.21,-119.3,0.0,top
+D18,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,161.16,-119.075,0.0,top
+D2,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,128.585,-83.9,0.0,top
+D3,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,140.685,-89.5,0.0,top
+D4,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,150.145,-89.2,0.0,top
+D5,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,162.345,-83.8,0.0,top
+D6,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,171.685,-89.5,0.0,top
+D7,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,181.81,-89.1,0.0,top
+D8,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,193.51,-85.45,0.0,top
+D9,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,201.345,-89.0,0.0,top
+J1,Conn_02x01,TerminalBlock_bornier-2_P5.08mm,90.86,-81.0,180.0,bottom
+J2,Conn_02x20_Counter_Clockwise,PinHeader_2x20_P2.54mm_Vertical,191.85,-81.07,90.0,bottom
+J7,Conn_02x01,TerminalBlock_bornier-2_P5.08mm,90.91,-120.2,0.0,bottom
+KR1,~,Korry Switch,128.65,-102.61,0.0,top
+KR2,~,Korry Switch,160.95,-102.61,0.0,top
+KR3,~,Korry Switch,192.85,-102.81,0.0,top
+R1,220R,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,145.2,-95.4,0.0,top
+R2,220R,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,177.05,-95.4,0.0,top
+R3,220R,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,208.95,-95.0,0.0,top
+R4,220R,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,145.15,-111.2,0.0,top
+R5,220R,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,145.025,-118.95,0.0,top
+R6,220R,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,191.35,-118.95,0.0,top

@@ -14,8 +14,11 @@
 - Connector Middle marking exist?
 - Connector 1 & 40 markings?
 - Connector Pin Labels for each IO
+- 600 Supply
+- 400 Signal
 - Gerber Output (JLCPCB)
-
+- Documentation!
 
 ## Panels Chechlist Verification
 - ADIRS - Completed
+- FLT-CTL (Captain Side) - Completed
