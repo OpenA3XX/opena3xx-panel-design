@@ -3272,6 +3272,12 @@
 		(uuid "e339d963-6174-449f-a7ee-37e1fc5d82af")
 	)
 	(junction
+		(at 535.94 57.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f04d0aab-9219-486e-bd0b-f2753ee6fe28")
+	)
+	(junction
 		(at 106.68 187.96)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3294,6 +3300,30 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f5866006-616e-41bd-867b-3f88eaadfda2")
+	)
+	(no_connect
+		(at 396.24 62.23)
+		(uuid "0359276b-a9f7-4699-88dc-d02658806f48")
+	)
+	(no_connect
+		(at 173.99 29.21)
+		(uuid "5ea4cb92-f622-4a0b-b74a-b7a6c3726a96")
+	)
+	(no_connect
+		(at 173.99 26.67)
+		(uuid "859f7a20-a2e2-4b13-b624-768b044a7ffc")
+	)
+	(no_connect
+		(at 396.24 59.69)
+		(uuid "a3238997-5ccb-4edc-8563-9dea8f7131e6")
+	)
+	(no_connect
+		(at 396.24 54.61)
+		(uuid "b440eed9-4260-4f43-b883-b291aea1b4f4")
+	)
+	(no_connect
+		(at 396.24 57.15)
+		(uuid "bb920831-760e-4271-8dab-933d59866a71")
 	)
 	(wire
 		(pts
@@ -4057,16 +4087,6 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 64.77) (xy 173.99 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "11b64880-aff7-4ded-ba3b-0e458a105047")
-	)
-	(wire
-		(pts
 			(xy 228.6 316.23) (xy 228.6 311.15)
 		)
 		(stroke
@@ -4457,6 +4477,16 @@
 	)
 	(wire
 		(pts
+			(xy 173.99 67.31) (xy 182.88 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c7f457e-4bc0-4c3c-aa9b-b21a9b436d35")
+	)
+	(wire
+		(pts
 			(xy 427.99 60.96) (xy 427.99 111.76)
 		)
 		(stroke
@@ -4814,6 +4844,16 @@
 			(type default)
 		)
 		(uuid "23a57472-aab9-407c-b954-24b084c2f6b6")
+	)
+	(wire
+		(pts
+			(xy 525.78 43.18) (xy 525.78 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "23bdd54e-3827-44c2-b64f-655f1efcc341")
 	)
 	(wire
 		(pts
@@ -5357,7 +5397,7 @@
 	)
 	(wire
 		(pts
-			(xy 535.94 55.88) (xy 535.94 59.69)
+			(xy 535.94 55.88) (xy 535.94 57.15)
 		)
 		(stroke
 			(width 0)
@@ -5817,6 +5857,16 @@
 	)
 	(wire
 		(pts
+			(xy 173.99 64.77) (xy 181.61 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3dfd9893-1fe7-4b48-9d91-48e01cae6f10")
+	)
+	(wire
+		(pts
 			(xy 360.68 443.23) (xy 370.84 443.23)
 		)
 		(stroke
@@ -6157,7 +6207,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 85.09) (xy 181.61 67.31)
+			(xy 181.61 64.77) (xy 181.61 85.09)
 		)
 		(stroke
 			(width 0)
@@ -8087,7 +8137,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 87.63) (xy 182.88 64.77)
+			(xy 182.88 87.63) (xy 182.88 67.31)
 		)
 		(stroke
 			(width 0)
@@ -8234,6 +8284,16 @@
 			(type default)
 		)
 		(uuid "7a954bfa-e4e3-4b09-acbd-bc18b6f93d1f")
+	)
+	(wire
+		(pts
+			(xy 525.78 55.88) (xy 525.78 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7a9ed6a6-0a15-4759-8027-5be596ed15f5")
 	)
 	(wire
 		(pts
@@ -8594,6 +8654,16 @@
 			(type default)
 		)
 		(uuid "833f9d4c-1d07-4a86-a208-6890b5b8fcd7")
+	)
+	(wire
+		(pts
+			(xy 535.94 57.15) (xy 535.94 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8445ce8c-2a26-47b7-b904-ce9973e53780")
 	)
 	(wire
 		(pts
@@ -9184,16 +9254,6 @@
 			(type default)
 		)
 		(uuid "95cfeb3a-2ba4-4660-8637-e333f6789086")
-	)
-	(wire
-		(pts
-			(xy 181.61 67.31) (xy 173.99 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "95d6b6ac-0788-4dc2-9eab-420ba8040c8f")
 	)
 	(wire
 		(pts
@@ -9824,6 +9884,16 @@
 			(type default)
 		)
 		(uuid "a356c5ed-ad99-4b94-9a3c-19b61291161b")
+	)
+	(wire
+		(pts
+			(xy 525.78 57.15) (xy 535.94 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a3addd9f-2b5a-4a6e-af01-eb3410483adf")
 	)
 	(wire
 		(pts
@@ -10964,6 +11034,16 @@
 			(type default)
 		)
 		(uuid "c1ca0b24-68a0-4286-87f2-216ed2979a96")
+	)
+	(wire
+		(pts
+			(xy 525.78 41.91) (xy 535.94 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c264ba22-05c8-4653-a3b5-00f5d6031347")
 	)
 	(wire
 		(pts
@@ -13936,7 +14016,7 @@
 			)
 		)
 		(property "Description" "MAN VS CTL"
-			(at 477.52 25.146 0)
+			(at 489.712 30.734 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14338,7 +14418,7 @@
 			)
 		)
 		(property "Description" "Seat Belts"
-			(at 476.25 107.95 0)
+			(at 483.616 113.538 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15846,7 +15926,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "1a9a5bee-28f5-45f4-9a12-27068e9c05a1")
 		(property "Reference" "J5"
 			(at 321.945 86.36 0)
@@ -15883,7 +15962,7 @@
 			)
 		)
 		(property "Description" "RWY Turn Off"
-			(at 322.58 78.74 0)
+			(at 330.454 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16411,7 +16490,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "20b56a8f-2fd3-4ed5-9034-32e94fc61f65")
 		(property "Reference" "J6"
 			(at 323.85 99.0599 0)
@@ -16450,7 +16528,7 @@
 			)
 		)
 		(property "Description" "Land L"
-			(at 322.58 101.6 0)
+			(at 330.2 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20471,7 +20549,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "60ccdcc6-947f-4515-89b6-e3bc712f0fd2")
 		(property "Reference" "J2"
 			(at 321.945 40.64 0)
@@ -20508,7 +20585,7 @@
 			)
 		)
 		(property "Description" "Strobe"
-			(at 322.58 33.02 0)
+			(at 327.914 33.274 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21452,7 +21529,7 @@
 			)
 		)
 		(property "Description" "OVHD LIGHTS"
-			(at 481.584 76.708 0)
+			(at 501.396 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22780,7 +22857,7 @@
 			)
 		)
 		(property "Description" "ICE IND & STBY COMPASS"
-			(at 478.028 100.584 0)
+			(at 491.49 95.504 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23049,7 +23126,7 @@
 			)
 		)
 		(property "Description" "Land R"
-			(at 323.596 110.998 0)
+			(at 330.454 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23085,7 +23162,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "7c9337d3-a825-47e2-bdd8-35a5a3e51093")
 		(property "Reference" "J9"
 			(at 323.85 147.3199 0)
@@ -23124,7 +23200,7 @@
 			)
 		)
 		(property "Description" "Nose"
-			(at 322.58 149.86 0)
+			(at 329.438 147.574 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26065,7 +26141,7 @@
 			)
 		)
 		(property "Description" "Dome Light"
-			(at 480.314 124.714 0)
+			(at 488.442 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26572,6 +26648,73 @@
 			(project "lights"
 				(path "/53f067b2-5e62-40c9-af08-fed5b43764dd"
 					(reference "D104")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_02x01")
+		(at 525.78 50.8 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a8fb4ec3-87b6-42d3-9423-5ef32721bef4")
+		(property "Reference" "J22"
+			(at 520.2682 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_02x01"
+			(at 522.5796 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TerminalBlock:TerminalBlock_bornier-2_P5.08mm"
+			(at 525.78 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 525.78 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, double row, 02x01, this symbol is compatible with counter-clockwise, top-bottom and odd-even numbering schemes., script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 469.9 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2cdb2fbb-4dde-4dcb-9463-a53cc561fc5c")
+		)
+		(pin "2"
+			(uuid "fc827bc0-342b-4854-a750-ebeeb9ba47d7")
+		)
+		(instances
+			(project "lights"
+				(path "/53f067b2-5e62-40c9-af08-fed5b43764dd"
+					(reference "J22")
 					(unit 1)
 				)
 			)
@@ -27320,7 +27463,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "b3ea51d5-4758-471b-8e39-36a7f88d7f9e")
 		(property "Reference" "J3"
 			(at 321.945 55.88 0)
@@ -27357,7 +27499,7 @@
 			)
 		)
 		(property "Description" "Beacon"
-			(at 322.58 48.26 0)
+			(at 327.406 48.514 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28643,7 +28785,7 @@
 			)
 		)
 		(property "Description" "No Smoking"
-			(at 480.822 155.194 0)
+			(at 488.696 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28717,7 +28859,7 @@
 			)
 		)
 		(property "Description" "Ember Exit LT"
-			(at 482.092 171.45 0)
+			(at 489.712 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29267,7 +29409,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "cad69427-671a-467b-9cc7-2fb25c56d6e0")
 		(property "Reference" "J4"
 			(at 321.945 71.12 0)
@@ -29304,7 +29445,7 @@
 			)
 		)
 		(property "Description" "Wing"
-			(at 322.58 63.5 0)
+			(at 326.644 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29960,7 +30101,7 @@
 			)
 		)
 		(property "Description" "ANN LT"
-			(at 478.79 139.7 0)
+			(at 486.41 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33072,7 +33213,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f9bc640d-0687-4d08-8773-5af8b2b2ced2")
 		(property "Reference" "J8"
 			(at 323.85 128.2699 0)
@@ -33111,7 +33251,7 @@
 			)
 		)
 		(property "Description" "Nav & Logo"
-			(at 322.58 130.81 0)
+			(at 332.486 128.524 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33403,7 +33543,7 @@
 			)
 		)
 		(property "Description" "LDG ELEV"
-			(at 476.504 42.926 0)
+			(at 483.362 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
