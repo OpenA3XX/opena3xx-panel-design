@@ -1,0 +1,75 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+D1,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,49.675,-26.1,0.0,top
+D10,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,42.175,-66.3,0.0,top
+D11,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,65.185,-66.4,0.0,top
+D12,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,65.235,-53.35,0.0,top
+D13,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,89.385,-66.4,0.0,top
+D14,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,100.275,-53.2,0.0,top
+D15,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,158.925,-35.125,0.0,top
+D16,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,131.685,-42.0,0.0,top
+D17,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,131.585,-60.8,0.0,top
+D18,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,148.075,-66.3,0.0,top
+D19,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,163.285,-42.3,0.0,top
+D2,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,82.335,-30.475,0.0,top
+D20,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,37.285,-83.9,0.0,top
+D21,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,59.575,-84.6,0.0,top
+D22,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,85.785,-84.8,0.0,top
+D23,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,111.685,-85.0,0.0,top
+D24,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,112.685,-66.3,0.0,top
+D25,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,136.185,-85.3,0.0,top
+D26,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,163.285,-62.2,0.0,top
+D27,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,33.185,-42.2,0.0,top
+D28,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,98.385,-87.2,0.0,top
+D29,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,36.285,-105.3,0.0,top
+D3,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,63.385,-33.4,0.0,top
+D30,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,60.185,-105.3,0.0,top
+D31,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,85.385,-105.2,0.0,top
+D32,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,111.485,-105.5,0.0,top
+D33,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,136.485,-105.6,0.0,top
+D34,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,151.985,-73.5,0.0,top
+D35,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,154.725,-87.7,0.0,top
+D36,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,160.285,-112.6,0.0,top
+D37,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,69.685,-118.1,0.0,top
+D38,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,95.975,-119.3,0.0,top
+D39,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,68.075,-132.3,0.0,top
+D4,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,100.685,-31.1,0.0,top
+D40,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,94.985,-135.9,0.0,top
+D41,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,86.485,-142.4,0.0,top
+D42,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,119.485,-118.1,0.0,top
+D43,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,140.785,-119.0,0.0,top
+D44,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,151.625,-134.2,0.0,top
+D45,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,147.585,-149.2,0.0,top
+D5,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,115.425,-31.275,0.0,top
+D6,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,136.625,-33.375,0.0,top
+D7,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,37.085,-33.9,0.0,top
+D8,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,49.185,-44.3,0.0,top
+D9,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,33.985,-58.7,0.0,top
+J1,Conn_02x01,TerminalBlock_bornier-2_P5.08mm,159.515,-26.25,180.0,bottom
+J2,Conn_02x01,TerminalBlock_bornier-2_P5.08mm,91.75,-26.2,180.0,bottom
+J3,Conn_02x20_Counter_Clockwise,PinHeader_2x20_P2.54mm_Vertical,166.705,-150.84,0.0,bottom
+J4,Conn_02x01,PinHeader_1x02_P2.54mm_Vertical,46.67,-95.3,90.0,top
+J5,Conn_02x01,PinHeader_1x02_P2.54mm_Vertical,72.295,-95.0,90.0,top
+J6,Conn_02x01,PinHeader_1x02_P2.54mm_Vertical,98.395,-95.2,90.0,top
+J7,Conn_02x01,PinHeader_1x02_P2.54mm_Vertical,124.37,-95.2,90.0,top
+J8,Conn_02x01,PinHeader_1x02_P2.54mm_Vertical,81.595,-127.9,90.0,top
+J9,Conn_02x02_Counter_Clockwise,PinHeader_1x04_P2.54mm_Vertical,132.5,-141.8,90.0,top
+KR1,~,Korry Switch,49.1,-50.16,0.0,top
+KR2,~,Korry Switch,114.8,-50.36,0.0,top
+KR3,~,Korry Switch,147.4,-50.36,0.0,top
+KR4,~,Korry Switch,152.3,-93.16,0.0,top
+KR5,~,Korry Switch,81.6,-49.735,0.0,top
+R1,220R,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,65.3,-41.5,0.0,top
+R10,220R,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,57.1,-114.4,0.0,top
+R11,220R,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,116.45,-73.3,0.0,top
+R12,220R,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,150.65,-112.7,0.0,top
+R13,220R,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,109.2,-129.4,0.0,top
+R14,220R,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,117.55,-129.3,0.0,top
+R15,220R,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,143.6,-155.7,0.0,top
+R2,220R,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,126.95,-31.6,0.0,top
+R3,220R,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,37.35,-74.0,0.0,top
+R4,220R,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,78.05,-74.5,0.0,top
+R5,220R,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,147.7,-27.6,0.0,top
+R6,220R,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,140.95,-73.4,0.0,top
+R7,220R,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,64.9,-74.4,0.0,top
+R8,220R,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,127.85,-73.4,0.0,top
+R9,220R,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,51.15,-74.0,0.0,top

@@ -24,3 +24,4 @@
 - FLT-CTL (Captain Side) - Completed
 - EMER-ELEC-PWR-GPWS-RCDR - Completed
 - OXYGEN-CALLS-RAIN-RPLNT_WIPERS - Completed
+- PA - Completed

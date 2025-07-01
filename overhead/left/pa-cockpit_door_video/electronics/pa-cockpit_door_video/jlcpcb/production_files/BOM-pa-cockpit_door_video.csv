@@ -1,0 +1,30 @@
+Comment,Designator,Footprint,LCSC,Quantity
+Conn_02x20_Counter_Clockwise,J3,PinHeader_2x20_P2.54mm_Vertical,,1
+Conn_02x01,J2,TerminalBlock_bornier-2_P5.08mm,,1
+220R,R1,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,1
+LED,D9,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,,1
+LED,D17,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,,1
+220R,R6,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,1
+~,KR2,Korry Switch,,1
+LED,D16,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,,1
+LED,D2,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,,1
+220R,R4,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,1
+LED,D12,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,,1
+220R,R2,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,1
+LED,D10,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,,1
+LED,D6,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,,1
+LED,D5,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,,1
+LED,D7,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,,1
+LED,D1,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,,1
+LED,D3,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,,1
+LED,D18,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,,1
+LED,D14,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,,1
+LED,D13,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,,1
+~,KR1,Korry Switch,,1
+LED,D11,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,,1
+220R,R5,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,1
+LED,D4,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,,1
+LED,D15,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,,1
+LED,D8,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,,1
+220R,R3,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,1
+Conn_02x01,J1,TerminalBlock_bornier-2_P5.08mm,,1

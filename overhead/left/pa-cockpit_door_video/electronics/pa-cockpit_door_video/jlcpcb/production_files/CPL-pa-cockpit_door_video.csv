@@ -1,0 +1,30 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+D1,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,111.585,-91.6,0.0,top
+D10,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,204.085,-92.0,0.0,top
+D11,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,172.285,-91.9,0.0,top
+D12,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,172.485,-108.3,0.0,top
+D13,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,182.575,-114.2,0.0,top
+D14,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,196.375,-114.3,0.0,top
+D15,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,203.885,-108.3,0.0,top
+D16,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,157.45,-99.725,0.0,top
+D17,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,201.985,-79.2,0.0,top
+D18,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,189.085,-92.1,0.0,top
+D2,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,119.21,-83.2,0.0,top
+D3,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,135.01,-83.2,0.0,top
+D4,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,143.485,-91.8,0.0,top
+D5,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,111.585,-107.2,0.0,top
+D6,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,121.71,-114.0,0.0,top
+D7,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,143.085,-106.9,0.0,top
+D8,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,132.41,-114.3,0.0,top
+D9,LED,LED_Everlight-SMD3528_3.5x2.8mm_67-21ST,176.385,-79.7,0.0,top
+J1,Conn_02x01,TerminalBlock_bornier-2_P5.08mm,87.16,-74.4,180.0,bottom
+J2,Conn_02x01,TerminalBlock_bornier-2_P5.08mm,87.11,-113.575,0.0,bottom
+J3,Conn_02x20_Counter_Clockwise,PinHeader_2x20_P2.54mm_Vertical,188.295,-74.205,90.0,bottom
+KR1,~,Korry Switch,127.3,-98.16,0.0,top
+KR2,~,Korry Switch,188.75,-98.41,0.0,top
+R1,220R,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,145.2,-83.3,0.0,top
+R2,220R,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,143.95,-114.5,0.0,top
+R3,220R,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,167.95,-79.7,0.0,top
+R4,220R,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,165.8,-106.5,0.0,top
+R5,220R,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,204.5,-99.7,0.0,top
+R6,220R,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,165.7,-88.2,0.0,top
