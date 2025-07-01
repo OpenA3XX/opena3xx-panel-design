@@ -19,9 +19,18 @@
 - Gerber Output (JLCPCB)
 - Documentation!
 
-## Panels Chechlist Verification
+## Panels Checklist Verification - Iteration 2 - Completed
 - ADIRS - Completed
+  - https://docs.opena3xx.dev/airbus-a320-panels/overhead-area/ovh-left/adirs
 - FLT-CTL (Captain Side) - Completed
+  - https://docs.opena3xx.dev/airbus-a320-panels/overhead-area/ovh-left/flt-ctl
+- EVAC - Completed
+  - https://docs.opena3xx.dev/airbus-a320-panels/overhead-area/ovh-left/evac
 - EMER-ELEC-PWR-GPWS-RCDR - Completed
+  - https://docs.opena3xx.dev/airbus-a320-panels/overhead-area/ovh-left/emer-elec-pwr-gpws-rcdr
 - OXYGEN-CALLS-RAIN-RPLNT_WIPERS - Completed
+  - https://docs.opena3xx.dev/airbus-a320-panels/overhead-area/ovh-left/oxygen-calls-rainrplnt-wipers
 - PA - Completed
+  - https://docs.opena3xx.dev/airbus-a320-panels/overhead-area/ovh-left/pa
+- ANTI-ICE, CABIN-PRESS, EXT-LT, APU, INT-LT, SIGNS - Completed
+  - https://docs.opena3xx.dev/airbus-a320-panels/overhead-area/ovh-centre/anti-ice-cabin-press-ext-lt-apu-int-lt-signs
