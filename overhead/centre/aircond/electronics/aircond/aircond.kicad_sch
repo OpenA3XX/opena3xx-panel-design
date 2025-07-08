@@ -2942,6 +2942,12 @@
 		(uuid "69717713-5660-4917-9756-ad3e7a91aa9d")
 	)
 	(junction
+		(at 372.11 49.53)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6b465821-ecaf-4bf3-b72b-c012dcff546e")
+	)
+	(junction
 		(at 270.51 64.77)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4613,6 +4619,16 @@
 	)
 	(wire
 		(pts
+			(xy 360.68 35.56) (xy 360.68 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f533db1-eecb-4d3f-b0a1-080b25977c88")
+	)
+	(wire
+		(pts
 			(xy 95.25 173.99) (xy 80.01 173.99)
 		)
 		(stroke
@@ -5940,6 +5956,16 @@
 			(type default)
 		)
 		(uuid "59fcfa95-2489-47be-ac36-c8df9b1c4787")
+	)
+	(wire
+		(pts
+			(xy 360.68 34.29) (xy 372.11 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a2b55a3-157c-4a59-8ffb-1d302b67a936")
 	)
 	(wire
 		(pts
@@ -8093,6 +8119,16 @@
 	)
 	(wire
 		(pts
+			(xy 360.68 49.53) (xy 372.11 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c3b4f70-b2f1-4e01-b24d-47b56ddbe94f")
+	)
+	(wire
+		(pts
 			(xy 99.06 374.65) (xy 106.68 374.65)
 		)
 		(stroke
@@ -8143,7 +8179,7 @@
 	)
 	(wire
 		(pts
-			(xy 372.11 48.26) (xy 372.11 52.07)
+			(xy 372.11 48.26) (xy 372.11 49.53)
 		)
 		(stroke
 			(width 0)
@@ -10523,6 +10559,16 @@
 	)
 	(wire
 		(pts
+			(xy 360.68 48.26) (xy 360.68 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e860a0a1-b5db-41a0-951f-a7415fb8706d")
+	)
+	(wire
+		(pts
 			(xy 156.21 421.64) (xy 156.21 424.18)
 		)
 		(stroke
@@ -11113,6 +11159,16 @@
 	)
 	(wire
 		(pts
+			(xy 372.11 49.53) (xy 372.11 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fbf20ef7-c36e-43e8-9d01-6d1a2a9263b6")
+	)
+	(wire
+		(pts
 			(xy 72.39 331.47) (xy 62.23 331.47)
 		)
 		(stroke
@@ -11611,7 +11667,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "MAN VS CTL"
+		(property "Description" "XBLEED"
 			(at 257.81 84.074 0)
 			(effects
 				(font
@@ -12106,6 +12162,73 @@
 			(project "aircond"
 				(path "/1a545166-1e6c-40d5-a989-dd86e2adc0d0"
 					(reference "D20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_02x01")
+		(at 360.68 43.18 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "07bfaaf4-1ebb-430d-8eeb-d7d1da5290fa")
+		(property "Reference" "J9"
+			(at 355.1682 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_02x01"
+			(at 357.4796 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TerminalBlock:TerminalBlock_bornier-2_P5.08mm"
+			(at 360.68 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 360.68 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, double row, 02x01, this symbol is compatible with counter-clockwise, top-bottom and odd-even numbering schemes., script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 304.8 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "dd2ec305-d635-455a-bfbb-4a5d440be95c")
+		)
+		(pin "2"
+			(uuid "d2d6afff-faf5-48f3-aba8-15730a40865c")
+		)
+		(instances
+			(project "aircond"
+				(path "/1a545166-1e6c-40d5-a989-dd86e2adc0d0"
+					(reference "J9")
 					(unit 1)
 				)
 			)
@@ -14868,10 +14991,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "2d5e9430-245d-4ba6-8b0a-58e2e91b9f1a")
 		(property "Reference" "KR4"
-			(at 116.84 179.7049 0)
+			(at 116.84 178.4349 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14880,7 +15002,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 116.84 181.61 0)
+			(at 116.84 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14906,12 +15028,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "APU Master SW"
-			(at 105.41 171.45 0)
+		(property "Description" "RAM AIR"
+			(at 102.87 170.942 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(pin "1"
@@ -19199,7 +19322,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "LDG ELEV"
+		(property "Description" "PACKS FWD CABIN"
 			(at 198.374 30.226 0)
 			(effects
 				(font
@@ -22852,10 +22975,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "985a2543-8641-4efe-b39c-4364d10679b9")
 		(property "Reference" "KR7"
-			(at 252.73 141.6049 0)
+			(at 252.73 140.3349 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22864,7 +22986,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 252.73 143.51 0)
+			(at 252.73 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22890,12 +23012,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Cabin Press Mode Sel"
-			(at 241.3 133.35 0)
+		(property "Description" "APU BLEED"
+			(at 236.982 133.096 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(pin "1"
@@ -23353,10 +23476,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "9d22cc48-2b63-43f9-8375-c1621bfd51e4")
 		(property "Reference" "KR6"
-			(at 203.2 140.3349 0)
+			(at 203.2 139.0649 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23365,7 +23487,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 203.2 142.24 0)
+			(at 203.2 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23391,12 +23513,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Probe Window Heat"
-			(at 191.77 132.08 0)
+		(property "Description" "HOT AIR"
+			(at 188.722 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(pin "1"
@@ -25159,10 +25282,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "b6155a76-5ad7-4d94-9338-4f3f646bdc08")
 		(property "Reference" "KR3"
-			(at 115.57 140.3349 0)
+			(at 115.57 139.0649 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25171,7 +25293,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 115.57 142.24 0)
+			(at 115.57 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25197,12 +25319,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Anti-Ice Eng 1"
-			(at 104.14 132.08 0)
+		(property "Description" "PACK 2"
+			(at 100.838 131.826 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(pin "1"
@@ -26468,8 +26591,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "LDG ELEV"
-			(at 258.826 52.324 0)
+		(property "Description" "PACKS AFT CABIN"
+			(at 249.174 39.624 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27142,8 +27265,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "MAN VS CTL"
-			(at 257.81 67.564 0)
+		(property "Description" "PACK FLOW"
+			(at 248.158 62.484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28349,7 +28472,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Anti-Ice Wing"
+		(property "Description" "PACK 1"
 			(at 56.388 131.318 0)
 			(effects
 				(font
@@ -28536,10 +28659,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "e2b391b7-f1a6-4334-bb92-9c38124713f4")
 		(property "Reference" "KR2"
-			(at 72.39 179.7049 0)
+			(at 72.39 178.4349 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28548,7 +28670,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 72.39 181.61 0)
+			(at 72.39 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28574,12 +28696,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Ditching"
-			(at 60.96 171.45 0)
+		(property "Description" "ENGINE 1 BLEED"
+			(at 53.34 170.942 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(pin "5"
@@ -29732,10 +29855,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f2d7d0e2-691d-45eb-91f5-046f9c6eae76")
 		(property "Reference" "KR5"
-			(at 162.56 140.3349 0)
+			(at 162.56 139.0649 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29744,7 +29866,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 162.56 142.24 0)
+			(at 162.56 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29770,12 +29892,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Anti-Ice Eng 2"
-			(at 151.13 132.08 0)
+		(property "Description" "ENGINE 2 BLEED"
+			(at 144.272 131.826 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(pin "1"
@@ -30730,8 +30853,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "LDG ELEV"
-			(at 186.944 50.546 0)
+		(property "Description" "PACKS COCKPIT"
+			(at 187.198 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
