@@ -4385,6 +4385,12 @@
 		(uuid "ce5dcc7b-4ae2-467a-88af-00accb56d0b9")
 	)
 	(junction
+		(at 54.61 152.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d8688c11-94d6-4dda-a2c5-d3ce86193c2f")
+	)
+	(junction
 		(at 139.7 336.55)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4431,12 +4437,28 @@
 		(uuid "0d43f300-4fb4-469f-aaff-e730432853d3")
 	)
 	(no_connect
+		(at 162.56 184.15)
+		(uuid "19a8d6e6-aa97-4e3b-af76-4a79e6d3033a")
+	)
+	(no_connect
+		(at 162.56 181.61)
+		(uuid "3108f898-8b81-47c6-90ef-78a0b11b3859")
+	)
+	(no_connect
 		(at 125.73 48.26)
 		(uuid "410a2a2c-ddf9-4818-a3f4-9a5680e408a3")
 	)
 	(no_connect
 		(at 125.73 45.72)
 		(uuid "4aeef99a-9e4d-42f1-bea4-e20b28397909")
+	)
+	(no_connect
+		(at 162.56 186.69)
+		(uuid "5327eb75-6f07-4b19-8880-d46319509580")
+	)
+	(no_connect
+		(at 162.56 179.07)
+		(uuid "a68a0a72-a16b-481f-aa9d-36b84ac0fdf1")
 	)
 	(wire
 		(pts
@@ -7370,6 +7392,16 @@
 	)
 	(wire
 		(pts
+			(xy 54.61 152.4) (xy 54.61 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d0d9053-7ce6-48e0-a1ae-8e719b4d4345")
+	)
+	(wire
+		(pts
 			(xy 50.8 184.15) (xy 50.8 298.45)
 		)
 		(stroke
@@ -7577,6 +7609,16 @@
 			(type default)
 		)
 		(uuid "639d5249-ce75-4b66-b670-e31466574b46")
+	)
+	(wire
+		(pts
+			(xy 44.45 138.43) (xy 44.45 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "63a25829-e88e-49f1-8d32-e4fb4d0d502a")
 	)
 	(wire
 		(pts
@@ -9170,7 +9212,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 149.86) (xy 54.61 153.67)
+			(xy 54.61 149.86) (xy 54.61 152.4)
 		)
 		(stroke
 			(width 0)
@@ -9700,6 +9742,16 @@
 	)
 	(wire
 		(pts
+			(xy 44.45 151.13) (xy 44.45 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aa3bbf79-70a2-43f1-acf7-f54ef1b6945b")
+	)
+	(wire
+		(pts
 			(xy 172.72 214.63) (xy 162.56 214.63)
 		)
 		(stroke
@@ -10147,6 +10199,16 @@
 			(type default)
 		)
 		(uuid "b9422738-9c4b-462d-b334-3e67c0df0255")
+	)
+	(wire
+		(pts
+			(xy 44.45 152.4) (xy 54.61 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b977aa90-a8ca-449f-b1dd-62f2e61fcc55")
 	)
 	(wire
 		(pts
@@ -11997,6 +12059,16 @@
 			(type default)
 		)
 		(uuid "f91fdc0e-8bd4-4a8e-8d8c-a298b3e5b146")
+	)
+	(wire
+		(pts
+			(xy 44.45 135.89) (xy 54.61 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f99d0fa9-7598-4334-ab95-5cdab525adba")
 	)
 	(wire
 		(pts
@@ -15874,10 +15946,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "257efba2-0062-43e4-b82a-9513232509d6")
 		(property "Reference" "KR11"
-			(at 302.26 335.9149 0)
+			(at 302.26 334.6449 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15886,7 +15957,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 302.26 337.82 0)
+			(at 302.26 336.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15912,12 +15983,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Ember Exit LIght Korry Switch"
-			(at 290.83 327.66 0)
+		(property "Description" "BAT 1"
+			(at 289.306 327.406 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(pin "1"
@@ -16318,10 +16390,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "2d5e9430-245d-4ba6-8b0a-58e2e91b9f1a")
 		(property "Reference" "KR4"
-			(at 119.38 333.3749 0)
+			(at 119.38 332.1049 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16330,7 +16401,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 119.38 335.28 0)
+			(at 119.38 334.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16356,12 +16427,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "APU Master SW"
-			(at 107.95 325.12 0)
+		(property "Description" "GEN 1"
+			(at 105.664 325.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(pin "1"
@@ -16586,6 +16658,73 @@
 			(project "elec"
 				(path "/34a7876d-4f82-4e0f-aeea-69939221300a"
 					(reference "#PWR012")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_02x01")
+		(at 44.45 146.05 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "305b4374-9201-4147-a8c1-bfb09127b911")
+		(property "Reference" "J3"
+			(at 38.9382 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_02x01"
+			(at 41.2496 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TerminalBlock:TerminalBlock_bornier-2_P5.08mm"
+			(at 44.45 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 44.45 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, double row, 02x01, this symbol is compatible with counter-clockwise, top-bottom and odd-even numbering schemes., script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at -11.43 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a514074c-bf58-4c05-a190-ea60b750b554")
+		)
+		(pin "2"
+			(uuid "10018f44-8b44-4394-8033-fa07456f0364")
+		)
+		(instances
+			(project "elec"
+				(path "/34a7876d-4f82-4e0f-aeea-69939221300a"
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -21817,10 +21956,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "985a2543-8641-4efe-b39c-4364d10679b9")
 		(property "Reference" "KR9"
-			(at 255.27 295.2749 0)
+			(at 255.27 294.0049 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21829,7 +21967,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 255.27 297.18 0)
+			(at 255.27 295.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21855,12 +21993,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Cabin Press Mode Sel"
-			(at 243.84 287.02 0)
+		(property "Description" "GEN 2"
+			(at 241.3 287.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(pin "1"
@@ -22186,10 +22325,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "9d22cc48-2b63-43f9-8375-c1621bfd51e4")
 		(property "Reference" "KR7"
-			(at 205.74 294.0049 0)
+			(at 205.74 292.7349 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22198,7 +22336,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 205.74 295.91 0)
+			(at 205.74 294.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22224,12 +22362,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Probe Window Heat"
-			(at 194.31 285.75 0)
+		(property "Description" "EXT POWER"
+			(at 189.992 285.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(pin "1"
@@ -22747,10 +22886,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a5314a89-ac8b-4571-a71c-d96d8cd5e53f")
 		(property "Reference" "KR10"
-			(at 255.27 335.9149 0)
+			(at 255.27 334.6449 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22759,7 +22897,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 255.27 337.82 0)
+			(at 255.27 336.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22785,12 +22923,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Ember Exit LIght Korry Switch"
-			(at 243.84 327.66 0)
+		(property "Description" "IDG 2"
+			(at 241.808 327.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(pin "1"
@@ -23614,10 +23753,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "b60b9aa5-775f-4b07-8576-d6aed300baf4")
 		(property "Reference" "KR6"
-			(at 165.1 334.6449 0)
+			(at 165.1 333.3749 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23626,7 +23764,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 165.1 336.55 0)
+			(at 165.1 335.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23652,12 +23790,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "APU Start"
-			(at 153.67 326.39 0)
+		(property "Description" "BUS TIE"
+			(at 150.622 326.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(pin "1"
@@ -23695,10 +23834,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "b6155a76-5ad7-4d94-9338-4f3f646bdc08")
 		(property "Reference" "KR3"
-			(at 118.11 294.0049 0)
+			(at 118.11 292.7349 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23707,7 +23845,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 118.11 295.91 0)
+			(at 118.11 294.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23733,12 +23871,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Anti-Ice Eng 1"
-			(at 106.68 285.75 0)
+		(property "Description" "IDG1"
+			(at 104.902 285.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(pin "1"
@@ -24760,10 +24899,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "c58e622b-e25d-456d-9da6-8c89fc0f97a6")
 		(property "Reference" "KR8"
-			(at 205.74 334.6449 0)
+			(at 205.74 333.3749 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24772,7 +24910,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 205.74 336.55 0)
+			(at 205.74 335.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24798,12 +24936,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Ember Exit LIght Korry Switch"
-			(at 194.31 326.39 0)
+		(property "Description" "AC ESS BUS"
+			(at 189.23 326.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(pin "1"
@@ -26172,7 +26311,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Anti-Ice Wing"
+		(property "Description" "COMMERCIAL"
 			(at 58.928 284.988 0)
 			(effects
 				(font
@@ -26282,10 +26421,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "e2b391b7-f1a6-4334-bb92-9c38124713f4")
 		(property "Reference" "KR2"
-			(at 74.93 333.3749 0)
+			(at 74.93 332.1049 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26294,7 +26432,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 74.93 335.28 0)
+			(at 74.93 334.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26320,12 +26458,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Ditching"
-			(at 63.5 325.12 0)
+		(property "Description" "GALY&CAB"
+			(at 59.436 325.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(pin "5"
@@ -26574,10 +26713,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "e903f761-e428-46f9-b0af-30cf97792b29")
 		(property "Reference" "KR12"
-			(at 350.52 335.9149 0)
+			(at 350.52 334.6449 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26586,7 +26724,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 350.52 337.82 0)
+			(at 350.52 336.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26612,12 +26750,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Ember Exit LIght Korry Switch"
-			(at 339.09 327.66 0)
+		(property "Description" "BAT 2"
+			(at 337.566 327.406 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(pin "1"
@@ -27132,10 +27271,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f2d7d0e2-691d-45eb-91f5-046f9c6eae76")
 		(property "Reference" "KR5"
-			(at 165.1 294.0049 0)
+			(at 165.1 292.7349 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27144,7 +27282,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 165.1 295.91 0)
+			(at 165.1 294.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27170,12 +27308,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Anti-Ice Eng 2"
-			(at 153.67 285.75 0)
+		(property "Description" "APU GEN"
+			(at 150.622 286.004 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(pin "1"
