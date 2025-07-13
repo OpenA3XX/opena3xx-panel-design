@@ -34,3 +34,9 @@
   - https://docs.opena3xx.dev/airbus-a320-panels/overhead-area/ovh-left/pa
 - ANTI-ICE, CABIN-PRESS, EXT-LT, APU, INT-LT, SIGNS - Completed
   - https://docs.opena3xx.dev/airbus-a320-panels/overhead-area/ovh-centre/anti-ice-cabin-press-ext-lt-apu-int-lt-signs
+- AIR-COND - Completed
+  - https://docs.opena3xx.dev/airbus-a320-panels/overhead-area/ovh-centre/air-cond
+- ELEC - Completed
+  - https://docs.opena3xx.dev/airbus-a320-panels/overhead-area/ovh-centre/elec
+- HYD-FUEL - Completed
+  - https://docs.opena3xx.dev/airbus-a320-panels/overhead-area/ovh-centre/hyd-fuel
