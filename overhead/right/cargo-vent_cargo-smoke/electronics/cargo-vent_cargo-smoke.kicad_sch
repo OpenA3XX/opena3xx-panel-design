@@ -2198,6 +2198,66 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "CARGO SMOKE FWD 2\n"
+		(exclude_from_sim no)
+		(at 202.946 197.866 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "505823df-6708-4cc8-acd1-c1408c8f56fa")
+	)
+	(text "CARGO SMOKE FWD 1"
+		(exclude_from_sim no)
+		(at 156.464 198.12 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "7349ad1f-3ad3-405e-a6ea-7751cdfaf5fd")
+	)
+	(text "CARGO SMOKE DISCHARGE 1\n"
+		(exclude_from_sim no)
+		(at 294.386 107.95 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "75ef61ec-a4a5-4651-b848-6ef89713fb20")
+	)
+	(text "AFT ISOL VALVE\n"
+		(exclude_from_sim no)
+		(at 110.236 197.612 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b81a74bd-089a-42fc-911a-643d5c677d1a")
+	)
+	(text "CARGO SMOKE TEST\n"
+		(exclude_from_sim no)
+		(at 288.544 149.098 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c2717716-8c5a-4ad4-b871-ca6ab63ba6ac")
+	)
+	(text "CARGO SMOKE DISCHARGE 2"
+		(exclude_from_sim no)
+		(at 294.132 170.18 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c8e0da3e-6934-45f1-b31b-cfac192a1f01")
+	)
 	(junction
 		(at 184.15 213.36)
 		(diameter 0)
@@ -2209,6 +2269,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "35d53e9f-dadf-467b-a71e-06a9b6b041c4")
+	)
+	(junction
+		(at 93.98 74.93)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "48e1b42e-b120-47fb-ad0b-bcde6b77158e")
 	)
 	(junction
 		(at 184.15 208.28)
@@ -2239,6 +2305,150 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d582c03e-a51b-4446-8334-d234305e4f10")
+	)
+	(no_connect
+		(at 125.73 132.08)
+		(uuid "06b93f82-2704-4c2d-8730-f730e9c8e88f")
+	)
+	(no_connect
+		(at 125.73 129.54)
+		(uuid "10e083f5-9e4b-4536-8441-e995d45b37f8")
+	)
+	(no_connect
+		(at 125.73 142.24)
+		(uuid "1150c585-97f1-47fd-9510-ae52d22a765e")
+	)
+	(no_connect
+		(at 138.43 132.08)
+		(uuid "14704303-0ae5-4797-ad63-795a73485ff4")
+	)
+	(no_connect
+		(at 138.43 119.38)
+		(uuid "1dbe8bc5-1953-4583-9469-544c34192846")
+	)
+	(no_connect
+		(at 138.43 127)
+		(uuid "1f99c5aa-8a99-43c6-9279-3ca534557647")
+	)
+	(no_connect
+		(at 283.21 115.57)
+		(uuid "207c9a97-7ead-4f67-99c5-32ce38736bc4")
+	)
+	(no_connect
+		(at 125.73 137.16)
+		(uuid "28f925cd-ec51-4b0d-b748-3c66cd5ae1c8")
+	)
+	(no_connect
+		(at 138.43 129.54)
+		(uuid "40ff1864-68a4-4ebe-ad5a-44be1dcc2b54")
+	)
+	(no_connect
+		(at 138.43 137.16)
+		(uuid "41ef5d82-fe41-4ff2-a107-5b6d2c6253a5")
+	)
+	(no_connect
+		(at 283.21 118.11)
+		(uuid "43cfc4af-09c9-451c-8ea0-aada639f3e44")
+	)
+	(no_connect
+		(at 138.43 142.24)
+		(uuid "48c9bf7a-a1dc-4ffb-9640-8d7e7959e4e1")
+	)
+	(no_connect
+		(at 125.73 134.62)
+		(uuid "49de7f75-7176-4307-93a6-32475ca46ef7")
+	)
+	(no_connect
+		(at 283.21 110.49)
+		(uuid "4bc45858-3e8a-4569-b5f8-8a2725c7b9a2")
+	)
+	(no_connect
+		(at 138.43 124.46)
+		(uuid "4f3dfedb-cfd2-41fa-b0a4-e8ae2915fcbd")
+	)
+	(no_connect
+		(at 138.43 114.3)
+		(uuid "5833d4c4-616e-4f52-b66d-89d15f6547e4")
+	)
+	(no_connect
+		(at 125.73 139.7)
+		(uuid "67f60097-dd2b-4d3d-9f75-9d7bc41c76bd")
+	)
+	(no_connect
+		(at 125.73 147.32)
+		(uuid "6c1ef853-ed7b-402b-9a3f-98e1d9a750f7")
+	)
+	(no_connect
+		(at 138.43 101.6)
+		(uuid "7b978cd7-caff-46b2-8730-2feeb5781433")
+	)
+	(no_connect
+		(at 283.21 177.8)
+		(uuid "7caafa90-fa19-4e8e-aa98-65edb0c0af4f")
+	)
+	(no_connect
+		(at 138.43 121.92)
+		(uuid "821ebf43-7504-4c38-9da7-63a7744be6d8")
+	)
+	(no_connect
+		(at 283.21 172.72)
+		(uuid "89fa37be-111e-461b-b561-4f1cc0039015")
+	)
+	(no_connect
+		(at 138.43 111.76)
+		(uuid "98ca9b53-b713-44ec-a9a2-113add94634b")
+	)
+	(no_connect
+		(at 138.43 99.06)
+		(uuid "a1d34107-df8c-4018-ad1b-de3511200e77")
+	)
+	(no_connect
+		(at 138.43 109.22)
+		(uuid "a29e84a9-0ade-4c5d-ae2d-a1951e428534")
+	)
+	(no_connect
+		(at 138.43 116.84)
+		(uuid "c1f344db-fcb7-40d5-9f19-f3aadc3077f5")
+	)
+	(no_connect
+		(at 138.43 106.68)
+		(uuid "c5b52615-db83-4744-a138-d9e6b417a022")
+	)
+	(no_connect
+		(at 283.21 113.03)
+		(uuid "d7c127e6-78d3-488f-ac6b-1e554bdb4e22")
+	)
+	(no_connect
+		(at 283.21 180.34)
+		(uuid "d961e6f5-e40c-4f73-beeb-61eae950748a")
+	)
+	(no_connect
+		(at 283.21 175.26)
+		(uuid "dbe1f66b-9cf9-458c-9b59-a143a087617f")
+	)
+	(no_connect
+		(at 138.43 104.14)
+		(uuid "df34a470-c771-41db-8e82-0b80ebe81776")
+	)
+	(no_connect
+		(at 138.43 134.62)
+		(uuid "e33e6a10-a664-43ab-bd41-c128cfe92122")
+	)
+	(no_connect
+		(at 138.43 139.7)
+		(uuid "e341858c-5aaf-4638-b8ef-dc0f63f0b7a3")
+	)
+	(no_connect
+		(at 138.43 147.32)
+		(uuid "e7695b96-ce4b-476b-92e4-c740d9e1c228")
+	)
+	(no_connect
+		(at 125.73 144.78)
+		(uuid "ee554981-ed6a-4691-b28f-06049e1a30a3")
+	)
+	(no_connect
+		(at 138.43 144.78)
+		(uuid "f7c6e73e-fcfa-481e-a5e1-21f548b76a12")
 	)
 	(wire
 		(pts
@@ -2302,16 +2512,6 @@
 	)
 	(wire
 		(pts
-			(xy 275.59 182.88) (xy 275.59 190.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "03346232-2fd5-4406-8a75-7f2388e612d4")
-	)
-	(wire
-		(pts
 			(xy 151.13 278.13) (xy 162.56 278.13)
 		)
 		(stroke
@@ -2349,6 +2549,16 @@
 			(type default)
 		)
 		(uuid "0515a367-c405-4d94-a9ba-312f943bdaa9")
+	)
+	(wire
+		(pts
+			(xy 283.21 182.88) (xy 275.59 182.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0660e1e1-1aea-4605-998a-3089b90c35e7")
 	)
 	(wire
 		(pts
@@ -2732,6 +2942,16 @@
 	)
 	(wire
 		(pts
+			(xy 83.82 58.42) (xy 93.98 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2aead1c0-8005-4abe-b196-d8e3d9b6a713")
+	)
+	(wire
+		(pts
 			(xy 81.28 381) (xy 91.44 381)
 		)
 		(stroke
@@ -2849,6 +3069,26 @@
 			(type default)
 		)
 		(uuid "31c8d930-b770-447c-a507-80434682b614")
+	)
+	(wire
+		(pts
+			(xy 275.59 185.42) (xy 275.59 194.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "31d4337b-1375-4389-a198-30d7a38435cf")
+	)
+	(wire
+		(pts
+			(xy 83.82 73.66) (xy 83.82 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "31f5b377-bd4a-4e78-825c-a1671de17138")
 	)
 	(wire
 		(pts
@@ -2992,6 +3232,16 @@
 	)
 	(wire
 		(pts
+			(xy 275.59 123.19) (xy 275.59 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3bad11f3-c8ba-4983-99c5-76e1625cfa43")
+	)
+	(wire
+		(pts
 			(xy 191.77 210.82) (xy 175.26 210.82)
 		)
 		(stroke
@@ -2999,6 +3249,16 @@
 			(type default)
 		)
 		(uuid "3c20f9a9-eaba-4020-b2b8-18be40a0e97b")
+	)
+	(wire
+		(pts
+			(xy 83.82 60.96) (xy 83.82 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d5f7cda-fc26-45e6-9edc-4412bf4d3441")
 	)
 	(wire
 		(pts
@@ -3172,6 +3432,16 @@
 	)
 	(wire
 		(pts
+			(xy 275.59 185.42) (xy 283.21 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c7a16f7-859c-4b45-a402-dcd7cced9d24")
+	)
+	(wire
+		(pts
 			(xy 252.73 347.98) (xy 242.57 347.98)
 		)
 		(stroke
@@ -3259,6 +3529,16 @@
 			(type default)
 		)
 		(uuid "5151d1c5-f22b-4977-b5d6-f306cdf68dda")
+	)
+	(wire
+		(pts
+			(xy 275.59 120.65) (xy 283.21 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "52b416bc-db23-4a71-9854-2501f4abc169")
 	)
 	(wire
 		(pts
@@ -3602,6 +3882,16 @@
 	)
 	(wire
 		(pts
+			(xy 91.44 76.2) (xy 91.44 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "70ec6215-18ae-4cbb-8f80-95b1c848ac7f")
+	)
+	(wire
+		(pts
 			(xy 242.57 358.14) (xy 242.57 353.06)
 		)
 		(stroke
@@ -3839,6 +4129,16 @@
 			(type default)
 		)
 		(uuid "86a789f3-be31-4a0d-b8f7-3bfe65d2c346")
+	)
+	(wire
+		(pts
+			(xy 83.82 76.2) (xy 91.44 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "88643e62-873d-47b4-bdd9-97f25c5c9c6b")
 	)
 	(wire
 		(pts
@@ -4162,6 +4462,16 @@
 	)
 	(wire
 		(pts
+			(xy 93.98 74.93) (xy 93.98 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a2024737-0e58-4ac0-bb51-67ec89374d37")
+	)
+	(wire
+		(pts
 			(xy 265.43 306.07) (xy 260.35 306.07)
 		)
 		(stroke
@@ -4189,6 +4499,16 @@
 			(type default)
 		)
 		(uuid "a65dd93c-e67e-41ec-a1a4-04d1c3a62978")
+	)
+	(wire
+		(pts
+			(xy 275.59 123.19) (xy 283.21 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a71696c9-0a6d-4a58-9f48-8167935f9ba5")
 	)
 	(wire
 		(pts
@@ -4222,16 +4542,6 @@
 	)
 	(wire
 		(pts
-			(xy 275.59 170.18) (xy 275.59 167.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a8cabada-eeea-41d0-9965-e59c5e2f983a")
-	)
-	(wire
-		(pts
 			(xy 331.47 267.97) (xy 326.39 267.97)
 		)
 		(stroke
@@ -4239,16 +4549,6 @@
 			(type default)
 		)
 		(uuid "a933ec2d-c9ea-40b8-9c4d-75c98aded021")
-	)
-	(wire
-		(pts
-			(xy 275.59 107.95) (xy 275.59 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a9d7d64b-7c09-4980-a334-ac123318b66a")
 	)
 	(wire
 		(pts
@@ -4279,16 +4579,6 @@
 			(type default)
 		)
 		(uuid "aa93b853-ecef-46f8-9745-59bdfd70be0f")
-	)
-	(wire
-		(pts
-			(xy 275.59 120.65) (xy 275.59 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "aab0e21e-6153-447c-9cbd-ea89a0093373")
 	)
 	(wire
 		(pts
@@ -4619,6 +4909,16 @@
 			(type default)
 		)
 		(uuid "c850716e-6008-4653-9c3b-b61314ea4e35")
+	)
+	(wire
+		(pts
+			(xy 275.59 167.64) (xy 275.59 182.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c88cf4ae-75ce-4734-8804-23755d0d35b1")
 	)
 	(wire
 		(pts
@@ -4972,13 +5272,23 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 72.39) (xy 93.98 76.2)
+			(xy 93.98 72.39) (xy 93.98 74.93)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "e8b6810d-0e63-448e-8a9a-b4ce9ebcf458")
+	)
+	(wire
+		(pts
+			(xy 275.59 104.14) (xy 275.59 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e930bc9e-e691-4ad8-b8f8-dcc60779c6af")
 	)
 	(wire
 		(pts
@@ -5109,6 +5419,16 @@
 			(type default)
 		)
 		(uuid "f350766f-c7fc-4e99-8deb-3ac90864c91a")
+	)
+	(wire
+		(pts
+			(xy 91.44 74.93) (xy 93.98 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f3a39586-fe8b-4f81-9ea5-ccf9a82dcc3d")
 	)
 	(wire
 		(pts
@@ -5945,6 +6265,88 @@
 		)
 	)
 	(symbol
+		(lib_id "KorrySwitch:Korry_Switch")
+		(at 293.37 170.18 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "106b912f-559b-476c-b23c-64f37f08c8cf")
+		(property "Reference" "KR5"
+			(at 304.8 178.4349 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 304.8 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "OpenA3XX:Korry Switch"
+			(at 293.37 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 293.37 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 293.37 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "c421044f-6770-495c-a055-0370bfceadfc")
+		)
+		(pin "1"
+			(uuid "bd61afd0-8d9f-4e22-9c94-a7222ff813f1")
+		)
+		(pin "2"
+			(uuid "558e77b6-400a-4b15-827f-b31726b8d529")
+		)
+		(pin "3"
+			(uuid "24a1f42f-b285-488b-a38b-ad6fbf8f0123")
+		)
+		(pin "5"
+			(uuid "b748c232-05ef-41dd-a89d-4e1e574253f5")
+		)
+		(pin "6"
+			(uuid "db0ed882-3509-43c2-8362-f062a71c13fe")
+		)
+		(instances
+			(project "cargo-vent_cargo-smoke"
+				(path "/cb0dbad6-e7e9-4948-8eca-0c6075d0d777"
+					(reference "KR5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:LED")
 		(at 95.25 316.23 180)
 		(unit 1)
@@ -6585,6 +6987,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector_Generic:Conn_02x01")
+		(at 83.82 68.58 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "315efaf5-325a-473e-b463-84bec85e2c89")
+		(property "Reference" "J3"
+			(at 78.3082 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_02x01"
+			(at 80.6196 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TerminalBlock:TerminalBlock_bornier-2_P5.08mm"
+			(at 83.82 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 83.82 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, double row, 02x01, this symbol is compatible with counter-clockwise, top-bottom and odd-even numbering schemes., script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 27.94 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7c786045-b5b6-41a3-bfcd-e7e8ac1b1b48")
+		)
+		(pin "2"
+			(uuid "bb1cac83-70d5-4fd8-a0f8-99c1fcd02229")
+		)
+		(instances
+			(project "cargo-vent_cargo-smoke"
+				(path "/cb0dbad6-e7e9-4948-8eca-0c6075d0d777"
+					(reference "J3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 231.14 318.77 0)
 		(unit 1)
@@ -6786,73 +7255,6 @@
 			(project "cargo-vent_cargo-smoke"
 				(path "/cb0dbad6-e7e9-4948-8eca-0c6075d0d777"
 					(reference "#PWR022")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_02x01")
-		(at 275.59 115.57 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "480e9e23-03a7-407f-850d-9b301ec33abe")
-		(property "Reference" "J3"
-			(at 270.0782 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_02x01"
-			(at 272.3896 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
-			(at 275.59 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 275.59 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, double row, 02x01, this symbol is compatible with counter-clockwise, top-bottom and odd-even numbering schemes., script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 219.71 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "43f73e88-d236-4e80-90b0-0c5b17c9641b")
-		)
-		(pin "2"
-			(uuid "378a3797-2686-47a1-8163-31194b2556e4")
-		)
-		(instances
-			(project "cargo-vent_cargo-smoke"
-				(path "/cb0dbad6-e7e9-4948-8eca-0c6075d0d777"
-					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -7214,6 +7616,88 @@
 			(project "cargo-vent_cargo-smoke"
 				(path "/cb0dbad6-e7e9-4948-8eca-0c6075d0d777"
 					(reference "#PWR09")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "KorrySwitch:Korry_Switch")
+		(at 293.37 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "54de8c8c-50bb-41f3-ac1c-40acd985874c")
+		(property "Reference" "KR4"
+			(at 304.8 116.2049 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 304.8 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "OpenA3XX:Korry Switch"
+			(at 293.37 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 293.37 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 293.37 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "974c69af-da1a-4516-b23a-337b6d0dbf53")
+		)
+		(pin "1"
+			(uuid "4b4cd617-6160-4837-b14a-aebab49fed08")
+		)
+		(pin "2"
+			(uuid "e9815db4-5c64-4123-8eb3-54c7bf693886")
+		)
+		(pin "3"
+			(uuid "b4a6728f-3e64-4b5f-bcc6-938dbc1549e5")
+		)
+		(pin "5"
+			(uuid "2cbf043a-1953-4b89-9f79-fe801f058cf3")
+		)
+		(pin "6"
+			(uuid "1423909e-7d86-44b6-b182-4b73abd996a1")
+		)
+		(instances
+			(project "cargo-vent_cargo-smoke"
+				(path "/cb0dbad6-e7e9-4948-8eca-0c6075d0d777"
+					(reference "KR4")
 					(unit 1)
 				)
 			)
@@ -10132,7 +10616,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 275.59 190.5 0)
+		(at 275.59 194.31 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10141,7 +10625,7 @@
 		(fields_autoplaced yes)
 		(uuid "b3fa6b8e-5d50-4f2d-9352-edaaa3cd641b")
 		(property "Reference" "#PWR031"
-			(at 275.59 196.85 0)
+			(at 275.59 200.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10150,7 +10634,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 275.59 195.58 0)
+			(at 275.59 199.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10158,7 +10642,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 275.59 190.5 0)
+			(at 275.59 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10167,7 +10651,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 275.59 190.5 0)
+			(at 275.59 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10176,7 +10660,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 275.59 190.5 0)
+			(at 275.59 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10838,73 +11322,6 @@
 			(project "cargo-vent_cargo-smoke"
 				(path "/cb0dbad6-e7e9-4948-8eca-0c6075d0d777"
 					(reference "D16")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_02x01")
-		(at 275.59 177.8 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ca1ab4ff-7794-449b-ad6c-a5039fa56fce")
-		(property "Reference" "J5"
-			(at 270.0782 176.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_02x01"
-			(at 272.3896 176.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
-			(at 275.59 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 275.59 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, double row, 02x01, this symbol is compatible with counter-clockwise, top-bottom and odd-even numbering schemes., script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 219.71 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0d2b99a5-24bf-4bff-ba89-33de91ca8cca")
-		)
-		(pin "2"
-			(uuid "000e88d2-39ab-4168-8ed2-c83fcc2b0f79")
-		)
-		(instances
-			(project "cargo-vent_cargo-smoke"
-				(path "/cb0dbad6-e7e9-4948-8eca-0c6075d0d777"
-					(reference "J5")
 					(unit 1)
 				)
 			)

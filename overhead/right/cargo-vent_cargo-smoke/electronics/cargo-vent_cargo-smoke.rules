@@ -26,7 +26,7 @@
     )
   )
   (rule
-    (width 500.0)
+    (width 600.0)
     (clearance 200.0)
     (clearance 100.0 (type smd_to_turn_gap))
     (clearance 50.0 (type smd))
@@ -58,7 +58,7 @@
     (clearance_class default)
     (via_rule default)
     (rule
-      (width 500.0)
+      (width 600.0)
     )
     (circuit 
       (use_layer F.Cu B.Cu)
@@ -75,11 +75,12 @@
     "unconnected-(J2-Pin_24-Pad24)" "unconnected-(J2-Pin_33-Pad33)" "unconnected-(J2-Pin_30-Pad30)" "Net-(J2-Pin_11)" "unconnected-(J2-Pin_32-Pad32)" "unconnected-(J2-Pin_22-Pad22)" "unconnected-(J2-Pin_37-Pad37)" "unconnected-(J2-Pin_36-Pad36)"
     "unconnected-(J2-Pin_16-Pad16)" "Net-(J2-Pin_10)" "unconnected-(J2-Pin_40-Pad40)" "unconnected-(J2-Pin_25-Pad25)" "unconnected-(J2-Pin_23-Pad23)" "unconnected-(J2-Pin_13-Pad13)" "unconnected-(J2-Pin_38-Pad38)" "unconnected-(J2-Pin_20-Pad20)"
     "unconnected-(J2-Pin_34-Pad34)" "unconnected-(J2-Pin_39-Pad39)" "Net-(J2-Pin_1)" "unconnected-(J2-Pin_21-Pad21)" "unconnected-(J2-Pin_29-Pad29)" "Net-(J2-Pin_4)" "Net-(J2-Pin_8)" "unconnected-(J2-Pin_17-Pad17)"
-    "Net-(J2-Pin_5)" "unconnected-(J2-Pin_26-Pad26)" "Net-(J2-Pin_3)"
+    "Net-(J2-Pin_5)" "unconnected-(J2-Pin_26-Pad26)" "Net-(J2-Pin_3)" "unconnected-(KR4-+5V_BOTTOM_LED-Pad3)" "unconnected-(KR4-GND_BOTTOM_LED-Pad4)" "unconnected-(KR4-+5V_TOP_LED-Pad1)" "unconnected-(KR4-GND_TOP_LED-Pad2)" "unconnected-(KR5-GND_TOP_LED-Pad2)"
+    "unconnected-(KR5-+5V_TOP_LED-Pad1)" "unconnected-(KR5-+5V_BOTTOM_LED-Pad3)" "unconnected-(KR5-GND_BOTTOM_LED-Pad4)"
     (clearance_class "kicad_default")
     (via_rule "kicad_default")
     (rule
-      (width 200.0)
+      (width 400.0)
     )
     (circuit 
       (use_layer F.Cu B.Cu)
