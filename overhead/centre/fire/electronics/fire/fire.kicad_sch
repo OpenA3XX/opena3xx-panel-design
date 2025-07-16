@@ -2498,6 +2498,64 @@
 		(color 0 0 0 0)
 		(uuid "dd53336e-cf6c-4b93-be59-3f97aa43a056")
 	)
+	(junction
+		(at 50.8 187.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "de3a7924-4906-43c6-984d-b570a605207e")
+	)
+	(no_connect
+		(at 134.62 31.75)
+		(uuid "0ac7fabe-0f63-4931-a946-20e7058bcb60")
+	)
+	(no_connect
+		(at 134.62 36.83)
+		(uuid "15aeb793-225a-4293-acc5-a3f06cfc05df")
+	)
+	(no_connect
+		(at 134.62 46.99)
+		(uuid "1ec28dc2-23cb-45c9-8e73-8bdd4e77e719")
+	)
+	(no_connect
+		(at 134.62 54.61)
+		(uuid "52fbecf5-9120-4fd2-b9e7-5a94fd629203")
+	)
+	(no_connect
+		(at 134.62 41.91)
+		(uuid "6e986609-484d-4c1f-8a68-97a55a9fefc3")
+	)
+	(no_connect
+		(at 134.62 49.53)
+		(uuid "7728921c-6a8e-4259-a1c3-f9f51661ae64")
+	)
+	(no_connect
+		(at 134.62 59.69)
+		(uuid "77d8a1f9-4e64-4983-b823-a4a9e8a43010")
+	)
+	(no_connect
+		(at 134.62 34.29)
+		(uuid "92ffd023-82cc-4b76-a45e-77f914e17590")
+	)
+	(no_connect
+		(at 134.62 57.15)
+		(uuid "96c6f27a-e0b2-483f-aabb-2977289fb5f0")
+	)
+	(no_connect
+		(at 134.62 29.21)
+		(uuid "98b64c18-d811-42bf-ab39-24e31af1e378")
+	)
+	(no_connect
+		(at 134.62 44.45)
+		(uuid "a5428926-0996-4d0f-ab51-d5cdd6a364fb")
+	)
+	(no_connect
+		(at 134.62 52.07)
+		(uuid "b9072890-48b5-47bf-930a-95ac328d2a69")
+	)
+	(no_connect
+		(at 134.62 39.37)
+		(uuid "e49e7082-fa96-4d22-870b-10bdc05537e6")
+	)
 	(wire
 		(pts
 			(xy 279.4 236.22) (xy 279.4 231.14)
@@ -2557,6 +2615,16 @@
 			(type default)
 		)
 		(uuid "021b54b2-45d8-4871-8869-d44191c2c352")
+	)
+	(wire
+		(pts
+			(xy 38.1 187.96) (xy 50.8 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "02aeb67e-37eb-437c-af8f-8e4ac78fbd18")
 	)
 	(wire
 		(pts
@@ -2760,7 +2828,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 186.69) (xy 50.8 190.5)
+			(xy 50.8 186.69) (xy 50.8 187.96)
 		)
 		(stroke
 			(width 0)
@@ -2967,6 +3035,16 @@
 			(type default)
 		)
 		(uuid "1ba7b2ed-3348-45bb-9dc8-c79938b241f1")
+	)
+	(wire
+		(pts
+			(xy 38.1 186.69) (xy 38.1 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c600c15-4b0e-4921-ae20-df5068c5e824")
 	)
 	(wire
 		(pts
@@ -4620,6 +4698,16 @@
 	)
 	(wire
 		(pts
+			(xy 38.1 172.72) (xy 50.8 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ff208aa-b024-4e51-a93f-8fa96273b562")
+	)
+	(wire
+		(pts
 			(xy 104.14 274.32) (xy 104.14 269.24)
 		)
 		(stroke
@@ -5250,6 +5338,16 @@
 	)
 	(wire
 		(pts
+			(xy 50.8 187.96) (xy 50.8 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "92a4ee24-450d-4ee2-b3be-2fa6c0c42c50")
+	)
+	(wire
+		(pts
 			(xy 175.26 128.27) (xy 157.48 128.27)
 		)
 		(stroke
@@ -5757,6 +5855,16 @@
 			(type default)
 		)
 		(uuid "b2b1b4df-537f-4816-ae75-bfadfccbfd90")
+	)
+	(wire
+		(pts
+			(xy 38.1 173.99) (xy 38.1 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3accb20-5fa2-478c-89ce-7afdf16941c3")
 	)
 	(wire
 		(pts
@@ -7508,6 +7616,73 @@
 			(project "fire"
 				(path "/3f476c7a-4a20-4caf-b3a4-c9516a17c804"
 					(reference "#PWR041")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_02x01")
+		(at 38.1 181.61 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "01af5bad-1d59-42e7-b5d3-f6d6cf888422")
+		(property "Reference" "J9"
+			(at 32.5882 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_02x01"
+			(at 34.8996 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TerminalBlock:TerminalBlock_bornier-2_P5.08mm"
+			(at 38.1 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 38.1 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, double row, 02x01, this symbol is compatible with counter-clockwise, top-bottom and odd-even numbering schemes., script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at -17.78 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "53469c34-419f-428c-81c4-8b2b720e289e")
+		)
+		(pin "2"
+			(uuid "b8232192-6505-4c56-a3cf-86cb4ea0b86e")
+		)
+		(instances
+			(project "fire"
+				(path "/3f476c7a-4a20-4caf-b3a4-c9516a17c804"
+					(reference "J9")
 					(unit 1)
 				)
 			)
@@ -9917,7 +10092,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "4a39d8d7-834c-48d2-b8f9-76b3a372a3de")
 		(property "Reference" "J5"
 			(at 230.505 64.77 0)
@@ -9953,8 +10127,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Strobe"
-			(at 231.14 57.15 0)
+		(property "Description" "APU Fire"
+			(at 236.22 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10425,7 +10599,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "51ddbc54-1258-40a1-986a-45ff53f53d7f")
 		(property "Reference" "J4"
 			(at 230.505 49.53 0)
@@ -10461,8 +10634,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Strobe"
-			(at 231.14 41.91 0)
+		(property "Description" "Engine 1 Fire"
+			(at 238.76 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10970,7 +11143,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "60ccdcc6-947f-4515-89b6-e3bc712f0fd2")
 		(property "Reference" "J3"
 			(at 230.505 33.02 0)
@@ -11006,8 +11178,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Strobe"
-			(at 231.14 25.4 0)
+		(property "Description" "Engine 1 Test"
+			(at 239.014 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11898,7 +12070,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "7646240c-dcfd-467e-a535-dd55c0691c8e")
 		(property "Reference" "J7"
 			(at 230.505 97.79 0)
@@ -11934,8 +12105,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Strobe"
-			(at 231.14 90.17 0)
+		(property "Description" "Engine 2 Fire"
+			(at 238.252 90.424 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13454,7 +13625,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "96a36554-297d-48dc-907e-07e9ed00bff9")
 		(property "Reference" "J6"
 			(at 230.505 81.28 0)
@@ -13490,8 +13660,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Strobe"
-			(at 231.14 73.66 0)
+		(property "Description" "APU Test"
+			(at 236.22 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13524,7 +13694,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "985a2543-8641-4efe-b39c-4364d10679b9")
 		(property "Reference" "KR5"
 			(at 246.38 135.2549 0)
@@ -13562,8 +13731,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Cabin Press Mode Sel"
-			(at 234.95 127 0)
+		(property "Description" "Engine 2 Agent 2"
+			(at 236.22 126.492 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13750,10 +13919,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "9d22cc48-2b63-43f9-8375-c1621bfd51e4")
 		(property "Reference" "KR4"
-			(at 196.85 133.9849 0)
+			(at 196.85 132.7149 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13762,7 +13930,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 196.85 135.89 0)
+			(at 196.85 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13788,12 +13956,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Probe Window Heat"
-			(at 185.42 125.73 0)
+		(property "Description" "Engine 2 Agent 1"
+			(at 178.308 125.222 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(pin "1"
@@ -14709,10 +14878,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "b6155a76-5ad7-4d94-9338-4f3f646bdc08")
 		(property "Reference" "KR2"
-			(at 109.22 133.9849 0)
+			(at 109.22 132.7149 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14721,7 +14889,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 109.22 135.89 0)
+			(at 109.22 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14747,12 +14915,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Anti-Ice Eng 1"
-			(at 97.79 125.73 0)
+		(property "Description" "Engine 1 Agent 2"
+			(at 90.424 125.222 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(pin "1"
@@ -15646,7 +15815,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "d3433ea9-fa62-430a-b55f-081ff2c6630f")
 		(property "Reference" "J8"
 			(at 230.505 114.3 0)
@@ -15682,8 +15850,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Strobe"
-			(at 231.14 106.68 0)
+		(property "Description" "Engine 2 Test"
+			(at 238.506 106.934 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16160,8 +16328,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Anti-Ice Wing"
-			(at 50.038 124.968 0)
+		(property "Description" "Engine 1 Agent 1"
+			(at 48.006 125.222 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16822,10 +16990,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f2d7d0e2-691d-45eb-91f5-046f9c6eae76")
 		(property "Reference" "KR3"
-			(at 156.21 133.9849 0)
+			(at 156.21 132.7149 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16834,7 +17001,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 156.21 135.89 0)
+			(at 156.21 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16860,12 +17027,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Anti-Ice Eng 2"
-			(at 144.78 125.73 0)
+		(property "Description" "APU Agent"
+			(at 140.716 125.476 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(pin "1"
