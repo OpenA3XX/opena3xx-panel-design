@@ -26,7 +26,7 @@
     )
   )
   (rule
-    (width 800.0)
+    (width 600.0)
     (clearance 200.0)
     (clearance 100.0 (type smd_to_turn_gap))
     (clearance 50.0 (type smd))
@@ -58,7 +58,7 @@
     (clearance_class default)
     (via_rule default)
     (rule
-      (width 800.0)
+      (width 600.0)
     )
     (circuit 
       (use_layer F.Cu B.Cu)
