@@ -2398,11 +2398,87 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Man Start 2"
+		(exclude_from_sim no)
+		(at 256.54 201.93 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "1b017448-09e8-4596-9670-f73d89adcd15")
+	)
+	(text "Blower\n"
+		(exclude_from_sim no)
+		(at 163.83 201.93 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "1b35807e-43b4-46e4-9915-827c0f4ac246")
+	)
+	(text "Rain Rplnt"
+		(exclude_from_sim no)
+		(at 336.042 180.594 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "8462d0a5-0338-4309-a3b8-9086ee05ca26")
+	)
+	(text "Wiper"
+		(exclude_from_sim no)
+		(at 332.232 143.764 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9b50a850-790b-462b-842c-89817700f26b")
+	)
+	(text "Cab Fans\n"
+		(exclude_from_sim no)
+		(at 209.296 201.93 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9f8f8803-1edf-4292-9b14-9d87a21fddb9")
+	)
+	(text "Extract\n"
+		(exclude_from_sim no)
+		(at 163.576 245.11 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f2d0156c-2856-4dff-b752-51ed1e708883")
+	)
+	(text "Man Start 1"
+		(exclude_from_sim no)
+		(at 209.042 245.11 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "fab621e2-72a7-44c5-b137-022cd9a2c82d")
+	)
 	(junction
 		(at 190.5 255.27)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "043b3099-4e45-4ac4-81a5-e8e6fe93c8e7")
+	)
+	(junction
+		(at 80.01 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0b4123fe-f481-4c8d-ab89-8653bcb67374")
 	)
 	(junction
 		(at 144.78 212.09)
@@ -2463,6 +2539,94 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f9c89138-47a4-4dcd-a808-f524c8803221")
+	)
+	(no_connect
+		(at 191.77 123.19)
+		(uuid "03415510-c2e9-4840-9c4f-aeeffa7d6d5a")
+	)
+	(no_connect
+		(at 191.77 105.41)
+		(uuid "041d387b-a529-4c79-8f27-46be46e8f98b")
+	)
+	(no_connect
+		(at 179.07 151.13)
+		(uuid "0d42471a-050c-43c5-b81d-0f794e2ebfef")
+	)
+	(no_connect
+		(at 191.77 135.89)
+		(uuid "266725e1-f923-4445-a145-4ff94a5ec0ce")
+	)
+	(no_connect
+		(at 191.77 130.81)
+		(uuid "49306dc2-e5d2-4a29-b5c7-ecfadcf1c186")
+	)
+	(no_connect
+		(at 191.77 143.51)
+		(uuid "55ac71d3-a2bb-40fa-9b88-341e43ccd852")
+	)
+	(no_connect
+		(at 191.77 125.73)
+		(uuid "5cf36776-9afb-4ca2-8d07-23223539ff98")
+	)
+	(no_connect
+		(at 191.77 107.95)
+		(uuid "6c99738a-7173-444e-9d51-3c203659cd68")
+	)
+	(no_connect
+		(at 191.77 151.13)
+		(uuid "77d51530-a112-497b-b5b8-6aa20d8fa297")
+	)
+	(no_connect
+		(at 191.77 133.35)
+		(uuid "a080678d-b51d-4ed4-828e-6a743e468528")
+	)
+	(no_connect
+		(at 191.77 110.49)
+		(uuid "a31ed047-70e9-449d-9d94-9199ee044c03")
+	)
+	(no_connect
+		(at 191.77 138.43)
+		(uuid "a8360ee5-2107-48c9-92f5-04084e133a91")
+	)
+	(no_connect
+		(at 191.77 113.03)
+		(uuid "b1ea7ad6-d045-4294-b604-f38afe8d3197")
+	)
+	(no_connect
+		(at 191.77 148.59)
+		(uuid "b89bc8ea-e097-47f3-b837-2a2a71ce174e")
+	)
+	(no_connect
+		(at 191.77 140.97)
+		(uuid "bd52b9fc-9910-4b53-ad6f-dbe8aba965e8")
+	)
+	(no_connect
+		(at 214.63 148.59)
+		(uuid "bf29ae32-5803-41a5-be54-8e668ed5229a")
+	)
+	(no_connect
+		(at 191.77 115.57)
+		(uuid "c854bad4-2531-4944-8e6d-7294836b3f36")
+	)
+	(no_connect
+		(at 191.77 102.87)
+		(uuid "c9d473d8-e55d-42a3-a19e-b7af7e9a01fc")
+	)
+	(no_connect
+		(at 191.77 120.65)
+		(uuid "e0db9118-c58c-4de0-87af-d79dbebc7525")
+	)
+	(no_connect
+		(at 191.77 128.27)
+		(uuid "e647d5a3-97e1-474b-8ee2-dc64057b0d40")
+	)
+	(no_connect
+		(at 191.77 146.05)
+		(uuid "f47b14af-c932-4ee4-942f-9e81e489377d")
+	)
+	(no_connect
+		(at 191.77 118.11)
+		(uuid "ff82174c-0fba-4107-9910-ab110907660b")
 	)
 	(wire
 		(pts
@@ -3596,7 +3760,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 69.85) (xy 80.01 73.66)
+			(xy 80.01 69.85) (xy 80.01 71.12)
 		)
 		(stroke
 			(width 0)
@@ -3743,6 +3907,16 @@
 			(type default)
 		)
 		(uuid "55da4297-5441-491f-891a-e24468baf1de")
+	)
+	(wire
+		(pts
+			(xy 69.85 55.88) (xy 80.01 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "565fb0d7-1dc8-40fe-a740-1b0ae001afa1")
 	)
 	(wire
 		(pts
@@ -3966,6 +4140,16 @@
 	)
 	(wire
 		(pts
+			(xy 69.85 69.85) (xy 69.85 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6f9a5458-9670-419b-9cc4-deb929d4b4c5")
+	)
+	(wire
+		(pts
 			(xy 121.92 419.1) (xy 111.76 419.1)
 		)
 		(stroke
@@ -4003,6 +4187,16 @@
 			(type default)
 		)
 		(uuid "71cdef55-d514-4cf9-a5b2-67abb1b75b74")
+	)
+	(wire
+		(pts
+			(xy 69.85 57.15) (xy 69.85 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71e6933a-7bd3-4f99-b01f-4fe5f9d973b4")
 	)
 	(wire
 		(pts
@@ -4213,6 +4407,16 @@
 			(type default)
 		)
 		(uuid "82b565af-e1ca-4f70-b185-9fdb8a258328")
+	)
+	(wire
+		(pts
+			(xy 69.85 71.12) (xy 80.01 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "84d7f9b9-7f64-4ea6-9a73-852a154a0986")
 	)
 	(wire
 		(pts
@@ -4543,6 +4747,16 @@
 			(type default)
 		)
 		(uuid "a1e97e39-c6fa-45eb-a5cd-e43c5bdeada2")
+	)
+	(wire
+		(pts
+			(xy 80.01 71.12) (xy 80.01 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a2659762-f537-42c1-95bf-1a6e38fbe36d")
 	)
 	(wire
 		(pts
@@ -12576,6 +12790,73 @@
 			(project "a320-overhead-ventilation_eng_rain-rplnt-wipers"
 				(path "/a3610311-68e6-4816-8096-4f38b3625346"
 					(reference "D39")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_02x01")
+		(at 69.85 64.77 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "df1fb37e-36ed-49af-a902-b41ad361cf81")
+		(property "Reference" "J5"
+			(at 64.3382 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_02x01"
+			(at 66.6496 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TerminalBlock:TerminalBlock_bornier-2_P5.08mm"
+			(at 69.85 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 69.85 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, double row, 02x01, this symbol is compatible with counter-clockwise, top-bottom and odd-even numbering schemes., script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 13.97 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "262f47e5-6a54-4ddd-a808-973098816373")
+		)
+		(pin "2"
+			(uuid "341bea6e-bdb5-4483-a7cd-5a2123860e94")
+		)
+		(instances
+			(project "a320-overhead-ventilation_eng_rain-rplnt-wipers"
+				(path "/a3610311-68e6-4816-8096-4f38b3625346"
+					(reference "J5")
 					(unit 1)
 				)
 			)
