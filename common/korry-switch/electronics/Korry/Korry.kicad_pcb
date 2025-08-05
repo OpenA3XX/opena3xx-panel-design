@@ -797,6 +797,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2935910"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "8e9cad53-ffd3-4832-8698-4be9aa402832")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/03258f0f-1a2e-4873-9327-e0bdcda374a2")
 		(sheetname "/")
@@ -1324,6 +1336,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2905434"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "e0ae7ced-4345-4d68-ad7b-41d4b0c38cb9")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/9fafd0ae-3279-4778-a09c-f33f4e4357cd")
 		(sheetname "/")
@@ -1833,6 +1857,18 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC" "C2933866"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "c6eae80f-e1b1-40d6-b711-330bac587f36")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/c28dfa5d-7132-408b-a734-5a881d96f741")
 		(sheetname "/")
@@ -2035,6 +2071,18 @@
 					(thickness 0.15)
 				)
 				(justify mirror)
+			)
+		)
+		(property "LCSC" "C2933866"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "15db0dec-d46f-451d-817f-a0be0a1e0125")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
 			)
 		)
 		(property ki_fp_filters "R_*")
@@ -2241,6 +2289,18 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC" "C2933866"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "a680e1b8-457f-4c31-8a6a-afa2a2556a4d")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a9b7ee1b-01a2-4572-9169-8f4546e5b3d7")
 		(sheetname "/")
@@ -2443,6 +2503,18 @@
 					(thickness 0.15)
 				)
 				(justify mirror)
+			)
+		)
+		(property "LCSC" "C2933866"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "99ab7fe2-e84b-4915-8ee0-1489068db2ed")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
 			)
 		)
 		(property ki_fp_filters "R_*")
@@ -3349,6 +3421,18 @@
 		(layer "B.Mask")
 		(uuid "fd8c5ff4-5ece-4a59-9617-8731f3ba2ca7")
 	)
+	(gr_poly
+		(pts
+			(xy 70.66 66.795) (xy 71.18 66.795) (xy 70.93 67.215)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "1d37e41a-3d41-4032-9466-93d873c5e49f")
+	)
 	(gr_line
 		(start 79.773294 60.3504)
 		(end 80.535194 60.3504)
@@ -3436,6 +3520,16 @@
 		(fill yes)
 		(layer "F.SilkS")
 		(uuid "4562a979-b6d8-4ae9-b789-2b51130ea79c")
+	)
+	(gr_line
+		(start 70.94 67.265)
+		(end 71.2 66.785)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "52fd2dff-0800-4d22-a2a3-9ee807f72c4e")
 	)
 	(gr_poly
 		(pts
@@ -3526,6 +3620,30 @@
 		(fill yes)
 		(layer "F.SilkS")
 		(uuid "b651f39f-231c-4656-bb94-48f55c19c5f1")
+	)
+	(gr_line
+		(start 70.66 66.795)
+		(end 70.94 67.265)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "ca750d51-13d3-4152-83ac-e5ef36461210")
+	)
+	(gr_poly
+		(pts
+			(xy 70.66 66.795) (xy 70.57 66.585236) (xy 70.57272 66.39019) (xy 70.724217 66.318898) (xy 70.86 66.38)
+			(xy 70.94 66.62) (xy 71.036977 66.361395) (xy 71.145626 66.31125) (xy 71.304332 66.382925) (xy 71.3 66.57)
+			(xy 71.21 66.775)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "f524cfc2-9ac6-41e4-b64f-009f59547da9")
 	)
 	(gr_poly
 		(pts
@@ -4699,7 +4817,7 @@
 		)
 	)
 	(gr_text "OPENA3XX"
-		(at 67.056 66.8528 0)
+		(at 61.92 67.44 0)
 		(layer "F.SilkS")
 		(uuid "1ade131b-3dee-4d7c-ab5c-3919cc1745d3")
 		(effects
@@ -4769,6 +4887,18 @@
 				(thickness 0.1)
 			)
 			(justify left bottom mirror)
+		)
+	)
+	(gr_text "MANTOGA"
+		(at 72.1 67.461819 0)
+		(layer "F.SilkS")
+		(uuid "76390a73-cf5f-4709-a561-a92719b2ea72")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
 		)
 	)
 	(gr_text "+"
