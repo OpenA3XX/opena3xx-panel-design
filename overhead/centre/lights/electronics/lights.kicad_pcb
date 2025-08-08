@@ -1956,7 +1956,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C49257"
+		(property "LCSC" "C5445396"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -7124,7 +7124,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C49257"
+		(property "LCSC" "C5445396"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -18772,7 +18772,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C49257"
+		(property "LCSC" "C5445396"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -27149,7 +27149,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C49257"
+		(property "LCSC" "C5445396"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -39805,7 +39805,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C49257"
+		(property "LCSC" "C5445396"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -41993,7 +41993,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C49257"
+		(property "LCSC" "C5445396"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -44509,7 +44509,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C49257"
+		(property "LCSC" "C5445396"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -47166,6 +47166,18 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC" "C589616"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "c426eeab-7439-4c86-bb9f-785234c9bb32")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/5458fb56-9a12-403c-b85b-07c7a531c70a")
 		(sheetname "/")
@@ -47425,6 +47437,18 @@
 					(thickness 0.15)
 				)
 				(justify mirror)
+			)
+		)
+		(property "LCSC" "C592976"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "c59ecaf6-9b9e-451d-936c-ef3e432e6f96")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
 			)
 		)
 		(property ki_fp_filters "Connector*:*_2x??_*")
@@ -49342,6 +49366,18 @@
 					(thickness 0.15)
 				)
 				(justify mirror)
+			)
+		)
+		(property "LCSC" "C592976"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "d3ad28f1-bd0d-4e4d-8df8-af1b4661bfc1")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
 			)
 		)
 		(property ki_fp_filters "Connector*:*_2x??_*")

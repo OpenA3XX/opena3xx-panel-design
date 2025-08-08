@@ -6,4 +6,5 @@ C2915055-2pin 1x2 Pin Header
 C7430365-9pin 1x9 Pin Header
 C2933785-220R 1206 Package
 C592976-Green Terminal Connector 2P
+C589616-Green Terminal Connector 3P
 
