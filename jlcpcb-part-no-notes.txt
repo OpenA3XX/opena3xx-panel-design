@@ -3,8 +3,9 @@ C725892-40 Pin Connector 2x20
 C2937625,C49257-3pin 1x3 Pin Header
 C5116483-4pin 1x4 Pin Header
 C2915055-2pin 1x2 Pin Header
-C7430365-9pin 1x9 Pin Header
+C225484-9pin 1x9 Pin Header
+C7430365-9pin 1x9 Pin Header to connect sort of ICs
 C2933785-220R 1206 Package
-C592976-Green Terminal Connector 2P
+C592976,C3703-Green Terminal Connector 2P
 C589616-Green Terminal Connector 3P
 
