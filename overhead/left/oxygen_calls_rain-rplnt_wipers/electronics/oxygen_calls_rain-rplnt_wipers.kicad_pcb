@@ -231,6 +231,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2843803"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "fc839a01-9c9a-4396-b379-11aab5b4639a")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/845a3065-d9b1-4b45-95c9-3ca8f04ddb8f")
 		(sheetname "/")
@@ -467,6 +479,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2843803"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "46c848e9-4216-42bc-8567-0acf20ff7679")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/889f976c-4bc3-46b7-9417-65428d7ef994")
 		(sheetname "/")
@@ -681,6 +705,18 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a184d7c9-5867-4bb9-ade5-6ab64fd81c5c")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2915055"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "af853c0d-fdb6-423c-b1c7-6c86e7f60073")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -956,6 +992,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2843803"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "eee20031-c41c-45a5-803a-6f40f6b57d0a")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b88ce02c-d032-406c-a123-79c0fb4ef973")
 		(sheetname "/")
@@ -1188,6 +1236,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2843803"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "a81bd58e-e4ce-4e1f-a2ef-300afad8b1be")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -1428,6 +1488,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2843803"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "09523800-f520-4616-819c-bf9c7e5b689f")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/274dee06-4456-48c2-bc44-26acf17bce48")
 		(sheetname "/")
@@ -1660,6 +1732,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2843803"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "faac2ece-f201-4d35-8ef5-90797ef6aabd")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -1900,6 +1984,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2843803"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "196d92fe-d61f-4a3e-be6e-eca1c0a9b14f")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/1678700c-30e5-4f47-97f1-c824ebafea7a")
 		(sheetname "/")
@@ -2132,6 +2228,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2843803"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "2e9bfdd9-18ee-4b9a-b57e-c529e2c7f4f5")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -2372,6 +2480,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2843803"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "04257cb7-6fdc-4cb7-8c7b-777eab6716a6")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/9f39ef63-18dd-4f12-9ee6-829062de1fe4")
 		(sheetname "/")
@@ -2593,6 +2713,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2933785"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "3d927bb4-9c08-402d-9dff-dbb9925963ff")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a5582458-981b-46dc-9438-9b946964bef6")
 		(sheetname "/")
@@ -2785,6 +2917,18 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "91a5dc67-7a25-455e-9518-2253bd6381ab")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2915055"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "2004c46c-4ade-46e3-a406-c48ff37cbde8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3060,6 +3204,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2843803"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "652c465b-973a-42f3-9f79-3b3bf41597e5")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/7887cf15-9eb1-4c7f-9047-69d1127d8805")
 		(sheetname "/")
@@ -3292,6 +3448,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2843803"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "ddbd941c-7a17-4ed4-8805-c38ba51041fd")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -3532,6 +3700,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2843803"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "f32a05e8-d8b3-42bc-89d5-5e93a8a5646a")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/90b5dbea-777a-40b3-87f2-a135747cf23e")
 		(sheetname "/")
@@ -3764,6 +3944,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2843803"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "1474fd74-1c3d-4cf1-ae0b-df4e5b2fa040")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -4004,6 +4196,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2843803"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "04c597c6-069a-44d2-ae4a-12e4f7ca2734")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/a05a3872-e901-43e3-8a87-3c061f7ad2fb")
 		(sheetname "/")
@@ -4240,6 +4444,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2843803"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "d270f476-89ef-49fc-a69c-68b3137328a9")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/f506fb48-f107-4522-bcfd-d290c766cf7e")
 		(sheetname "/")
@@ -4472,6 +4688,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2843803"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "b59fe952-a844-47d6-8694-9ce352d3660b")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -5199,6 +5427,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2933785"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "6bc538ef-93d4-4781-afef-d66db2db61d4")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/ecbcd872-0a25-4485-8466-94c5798c82a1")
 		(sheetname "/")
@@ -5915,6 +6155,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2843803"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "0efe2889-9250-4282-b8ce-83c40313e007")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/491e8119-ca58-4e32-a5f7-53c7c146fe06")
 		(sheetname "/")
@@ -6151,6 +6403,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2843803"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "2b6f1886-3d43-4230-8cd2-3743c3929ea7")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/0b6b5d08-7120-4020-9616-07b48eb0f82e")
 		(sheetname "/")
@@ -6372,6 +6636,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2933785"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "e53f3fc5-a17a-49a1-aba5-94c07108d2f3")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/c1cc3988-9ff3-407b-8795-12843f686540")
 		(sheetname "/")
@@ -6564,6 +6840,18 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "50b946e2-b6ca-4b8e-9cd0-a4d8ed51a0d9")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2933785"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "aafbbba3-a1b5-48aa-8839-d0cf0e9e2193")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6781,6 +7069,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2843803"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "e8839a7e-b004-4b84-bf38-70b33906b6f5")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -7021,6 +7321,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2843803"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "ba3f3e6d-c950-42b1-bdc1-afb9adc8ceb6")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/3b49aafe-76f1-452b-b844-aa33674e6af2")
 		(sheetname "/")
@@ -7242,6 +7554,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2933785"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "7aea6caa-6acb-4797-925c-b3ea01bab9c9")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/6945014b-de0d-4024-95ba-fd5ba28cbd8d")
 		(sheetname "/")
@@ -7452,6 +7776,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2843803"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "d704cd71-eaee-498b-8847-035f86e8bde3")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -7692,6 +8028,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2843803"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "6ab73abf-f5bb-4d0f-81ca-be05c7e0f510")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b74e9fb8-753e-4f14-8949-13ab45d9d8a3")
 		(sheetname "/")
@@ -7924,6 +8272,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2843803"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "6c19d004-0522-472f-a034-31664fe6a026")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -8164,6 +8524,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2843803"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "9dc9b26f-d30c-4849-ad07-d4fc37acd0f4")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/0780f592-bde3-4d45-8087-9141cf381b8b")
 		(sheetname "/")
@@ -8400,6 +8772,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2843803"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "06d15e48-33b6-4f83-9040-e35b0b67d13c")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/6b08e778-a9ab-4cbc-a69e-ae27a981d3a5")
 		(sheetname "/")
@@ -8621,6 +9005,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2933785"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "66c8f99c-2846-4a6e-ab64-b2d9d7660d19")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/5da96fb2-ff8a-48e1-b288-c46270f9373f")
 		(sheetname "/")
@@ -8831,6 +9227,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2843803"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "660c295a-97ed-4270-944a-85d169942add")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -9056,6 +9464,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2933785"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "3b638354-9221-45d5-b7e8-b9c2e26e6381")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/9573f600-18b3-48be-b59d-af55a567d329")
 		(sheetname "/")
@@ -9248,6 +9668,18 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2ae07692-d3f9-4229-a3f2-147c813182e6")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2915055"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "fa3fc164-ef05-4b4a-960c-ccf32e308300")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9508,6 +9940,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2933785"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "a95dfbd9-fbfb-4c2f-86cd-0dc0b1fbc9e6")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/22f394b5-c030-4263-9e05-686f2c31b109")
 		(sheetname "/")
@@ -9718,6 +10162,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2843803"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "957c6cb5-8046-42fd-a3d8-e77a224d0aa8")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -9943,6 +10399,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2933785"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "b985cf80-376f-4a64-8506-752d622f478a")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/e8597e0d-cf75-4cbb-a0ee-b492c9ee8d23")
 		(sheetname "/")
@@ -10153,6 +10621,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2843803"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "3dfe09b9-b55d-4866-a14a-ea3fc4644529")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -10393,6 +10873,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2843803"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "c38db00f-9387-4aba-b777-581154a1a740")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c009ddd7-a017-4160-81b8-71bd1dc803cf")
 		(sheetname "/")
@@ -10614,6 +11106,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2933785"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "ff5e5d04-7065-4abf-940e-dac265f787b4")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/05c1a466-0a08-43b2-a9af-64d1519c5cd2")
 		(sheetname "/")
@@ -10824,6 +11328,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2843803"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "4a006f4b-413f-4458-90e6-8f9085314b99")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -11064,6 +11580,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2843803"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "43336246-ec51-4ed3-9bf0-4bd2862b6c98")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/ff684d83-7239-4b61-928d-92224efb78ed")
 		(sheetname "/")
@@ -11278,6 +11806,18 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2369d6db-872f-4b7d-860a-4775cfe734c3")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2933785"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "bc7531cc-fb3b-4740-8c00-5ab7b23ead75")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11986,6 +12526,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C5116483"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "8c180f06-5a41-4dec-b497-0a7856cd2029")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/3088524b-c697-48da-a3b0-834536b32a06")
 		(sheetname "/")
@@ -12261,6 +12813,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2915055"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "f28b0bb9-b5de-47bb-bc7e-fed9b33c74e7")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/4eeab0a3-f757-4cdd-bf11-3e96b73c5bc4")
 		(sheetname "/")
@@ -12514,6 +13078,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2933785"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "3ea945ea-fbba-4ee9-8d74-314250586e84")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/9c1b1355-1c3a-4fb4-a6ce-55dfd146c999")
 		(sheetname "/")
@@ -12724,6 +13300,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2843803"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "fcfa50af-5709-42d0-bd4e-fb80490980eb")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -12964,6 +13552,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2843803"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "ee043e93-e2b4-4065-9ced-ff4c07a3bba1")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/bbdb4050-b64a-426b-bfe5-3ca0db38a995")
 		(sheetname "/")
@@ -13200,6 +13800,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2843803"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "fbc86b25-d626-443c-9165-95b7368e9df1")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/f3e14202-9d8a-406d-b496-17929e4f76fc")
 		(sheetname "/")
@@ -13414,6 +14026,18 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "99fe49ae-b247-4ac5-a4f1-8ec24ddc5912")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2915055"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "ecfe475a-c484-416e-aab0-0ff74584b4c8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13685,6 +14309,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2843803"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "ac14100f-eecd-4348-a7cd-dc0ad67d28b1")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -14171,6 +14807,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2843803"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "275234ea-2f9f-4c4d-8a90-cc3f0dac3197")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/f9ec679e-c4f5-45f6-bf22-cb92457e6ced")
 		(sheetname "/")
@@ -14403,6 +15051,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2843803"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "5eb2875a-bcee-4c18-b2da-294a5bbfaa31")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -14643,6 +15303,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2843803"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "9c640c45-fb4d-4afa-a49b-76c51496f952")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/995da59d-d597-4a29-97a9-1d1ad98f7212")
 		(sheetname "/")
@@ -14864,6 +15536,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2933785"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "490b9f99-9a7c-47d2-a0d1-4dc97eedbf0c")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/7cfc40b9-6be3-416d-8be3-cb76f704c4dc")
 		(sheetname "/")
@@ -15074,6 +15758,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2843803"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "78193957-8c77-4a1e-b3fe-520c66213535")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -15314,6 +16010,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2843803"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "8d802d88-59f8-43f6-a792-b5f28ef3fb8f")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/ad8d5de6-9187-4c5e-8163-229b072946d7")
 		(sheetname "/")
@@ -15535,6 +16243,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2933785"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "4acf5b0c-0fde-4ce5-8b86-9bdb8645b598")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/8cc1d708-46f4-4d95-84e2-77660e3c42f0")
 		(sheetname "/")
@@ -15745,6 +16465,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2843803"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "8f34670a-09fb-4449-bd44-7e3c3fd6f581")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -15985,6 +16717,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2843803"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "9f06e804-8652-40a3-920e-7c0098c608c8")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/789452d7-a133-4a81-b9ed-ef7d3e0e0aeb")
 		(sheetname "/")
@@ -16199,6 +16943,18 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7f28fbc1-3b55-470c-9d2a-7aa53a7d17d7")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2933785"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "52d9796a-32dd-4092-b812-aad4552301bd")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16918,6 +17674,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2843803"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "312d94a0-e1e2-4ba3-93b8-470250b1d27b")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -17660,6 +18428,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2843803"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "677fac88-f21c-4022-8316-07b751b32de7")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b0baa98f-d6d4-4e62-bd7b-0ce1c0e7215c")
 		(sheetname "/")
@@ -17892,6 +18672,18 @@
 			(effects
 				(font
 					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2843803"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "65d41f7c-4298-4818-ab62-31560161e436")
+			(effects
+				(font
+					(size 1.27 1.27)
 					(thickness 0.15)
 				)
 			)
@@ -18370,6 +19162,18 @@
 					(thickness 0.15)
 				)
 				(justify mirror)
+			)
+		)
+		(property "LCSC" "C725892"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "14aa1275-0956-444f-8a8f-66c226a03a04")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
 			)
 		)
 		(property ki_fp_filters "Connector*:*_2x??_*")
@@ -19070,6 +19874,18 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC" "C592976"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "f61484b1-e9b7-4d3e-9a6a-11cafedb4bd5")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/87b4ad26-5360-4fa8-b685-6458c680b7a8")
 		(sheetname "/")
@@ -19318,6 +20134,18 @@
 					(thickness 0.15)
 				)
 				(justify mirror)
+			)
+		)
+		(property "LCSC" "C592976"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "4f9a2146-ea1b-4edd-85ec-61e954147d90")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
 			)
 		)
 		(property ki_fp_filters "Connector*:*_2x??_*")
