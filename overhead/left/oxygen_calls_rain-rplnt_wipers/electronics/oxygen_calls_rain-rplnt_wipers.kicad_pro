@@ -489,7 +489,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "oxygen_calls_rain-rplnt_wipers.dsn",
-      "step": "",
+      "step": "oxygen_calls_rain-rplnt_wipers.step",
       "svg": "",
       "vrml": ""
     },
