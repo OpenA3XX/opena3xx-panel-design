@@ -489,7 +489,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "fl-ctl.dsn",
-      "step": "",
+      "step": "fl-ctl.step",
       "svg": "",
       "vrml": ""
     },
