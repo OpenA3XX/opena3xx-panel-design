@@ -489,7 +489,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "pa-cockpit_door_video.dsn",
-      "step": "",
+      "step": "pa-cockpit_door_video.step",
       "svg": "",
       "vrml": ""
     },
