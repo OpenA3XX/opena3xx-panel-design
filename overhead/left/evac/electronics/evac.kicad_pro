@@ -489,7 +489,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "evac.dsn",
-      "step": "",
+      "step": "evac2.step",
       "svg": "",
       "vrml": ""
     },
