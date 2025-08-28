@@ -489,7 +489,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "fire.dsn",
-      "step": "",
+      "step": "fire.step",
       "svg": "",
       "vrml": ""
     },

@@ -489,7 +489,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "hyd-fuel.dsn",
-      "step": "",
+      "step": "hyd-fuel.step",
       "svg": "",
       "vrml": ""
     },
