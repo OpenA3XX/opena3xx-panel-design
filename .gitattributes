@@ -1,0 +1,2 @@
+*.FCStd filter=lfs diff=lfs merge=lfs -text
+*.FCBak filter=lfs diff=lfs merge=lfs -text
