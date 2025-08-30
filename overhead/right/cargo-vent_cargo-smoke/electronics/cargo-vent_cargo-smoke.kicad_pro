@@ -489,7 +489,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "cargo-vent_cargo-smoke.dsn",
-      "step": "",
+      "step": "cargo-vent_cargo-smoke.step",
       "svg": "",
       "vrml": ""
     },
