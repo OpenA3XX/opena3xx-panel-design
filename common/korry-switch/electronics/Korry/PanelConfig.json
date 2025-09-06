@@ -1,0 +1,12 @@
+{
+    "layout": {
+        "hspace": "3mm",
+        "vspace": "3mm",
+        "rows": "4",
+        "cols": "4",
+        "hbonecut": "False"
+    },
+    "framing": {
+        "type": "frame"
+    }
+}
