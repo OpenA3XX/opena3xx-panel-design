@@ -5256,6 +5256,18 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "6e613d82-7152-4462-9ae4-7c8e45e46313")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/ea389c75-9547-47b8-86ae-92979bd14e92")
 		(sheetname "/")
 		(sheetfile "pa-cockpit_door_video.kicad_sch")
