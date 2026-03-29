@@ -238,5 +238,13 @@
 		(layer "F.SilkS")
 		(uuid "ccffc7fb-d3a7-4854-b852-041cf946fe40")
 	)
+	(group ""
+		(uuid "417bbee5-a928-45e0-9e36-3bf1e2d09e0a")
+		(members "0397bd1a-b2f4-4b7d-b6d0-315b6ed1ed7d" "44122619-1f85-477e-b52e-a884f7c1a561"
+			"44a3fbcc-cfde-4716-9f1e-f69a6c3ff773" "4994a106-65dc-471d-9397-1e7cd3ec2cec"
+			"9401121b-13c0-4596-8668-b4e7592d8f3f" "a5b4a858-51f3-4ab0-8767-2a39b27c4130"
+			"c02d4c51-7f36-4f5b-ada3-64bdeb6d7d40" "ccffc7fb-d3a7-4854-b852-041cf946fe40"
+		)
+	)
 	(embedded_fonts no)
 )
